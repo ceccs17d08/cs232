@@ -1,0 +1,2139 @@
+Script started on Monday 25 February 2019 09:34:31 AM IST
+]0;s4d1@ceclab2-Veriton-Series: ~s4d1@ceclab2-Veriton-Series:~$ exitclear[K[K[K[K[Kpdftotxt result_CHN -txt
+No command 'pdftotxt' found, did you mean:
+ Command 'pdftotext' from package 'poppler-utils' (main)
+pdftotxt: command not found
+]0;s4d1@ceclab2-Veriton-Series: ~s4d1@ceclab2-Veriton-Series:~$ pdftotxt result_CHN -txt[C[C[C[K[K[Klayout
+No command 'pdftotxt' found, did you mean:
+ Command 'pdftotext' from package 'poppler-utils' (main)
+pdftotxt: command not found
+]0;s4d1@ceclab2-Veriton-Series: ~s4d1@ceclab2-Veriton-Series:~$ pdftotxt result_CHN -layout[1@e
+I/O Error: Couldn't open file 'result_CHN': No such file or directory.
+]0;s4d1@ceclab2-Veriton-Series: ~s4d1@ceclab2-Veriton-Series:~$ pdftotext result_CHN -layout[C[C. -layoutp -layoutd -layoutf -layout
+I/O Error: Couldn't open file 'result_CHN.pdf': No such file or directory.
+]0;s4d1@ceclab2-Veriton-Series: ~s4d1@ceclab2-Veriton-Series:~$ cd Desktop
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cd Desktoppdftotext result_CHN.pdf -layout
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ pdftotext result_CHN.pdf -layout[C[C[C[C[C[C[C[C[C[C[C\ -layout[1P -layout[1P -layout[1P -layout[1P -layoutt -layoutx -layoutt -layout
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ pdftotext result_CHN.txt -layout[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P -layout[1P -layout[1P -layout[1P -layout[1P -layoutn -layout[1P -layoutN -layout[C -layout[1P-layout. -layoutp -layoutd -layoutf -layout
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ pdftotext result_CHN.pdf -layouttxt[C[C[C[C[C[C[C[C[C
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ pdftotext result_CHN.txt -layout[C[1P -layout[1P -layout[1P -layoutp -layoutd -layoutf -layout\ -layout
+I/O Error: Couldn't open file 'result_CHN.pdf -layout': No such file or directory.
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ pdftotext result_CHN.pdf\ -layout[1Ptxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ pdftotext result_CHN.pdf -layout
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ 
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ 
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ 
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ pdftotext result_CHN.pdf -layout[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P -layout[1P -layout[1P -layoutt -layoutx -layoutt -layout
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ pdftotext result_CHN.txt -layout[1P -layout[1P -layout[1P -layoutp -layoutd -layoutf -layout
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ gre[K[K[Kgrep "CHN17CS" RESULOT_CHN17\[K[K[K[K[K[K[K[K[K[K[K[K[K[Kresult_CHN.tc[Kxrt[K[Kt
+[01;31m[KCHN17CS[m[K001       MA101(A), PH100(B+), BE100(B), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K002       MA101(A), PH100(B+), BE100(B), BE10105(B+), BE103(A), EE100(B), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K003       MA101(B+), PH100(B), BE100(C), BE10105(C), BE103(A+), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K004       MA101(B), PH100(C), BE100(B+), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(A+),
+[01;31m[KCHN17CS[m[K005       MA101(C), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K006       MA101(O), PH100(B+), BE100(A+), BE10105(B), BE103(A+), EE100(B+), PH110(A+),
+[01;31m[KCHN17CS[m[K007       MA101(F), PH100(C), BE100(P), BE10105(F), BE103(B+), EE100(F), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K008       MA101(B), PH100(B), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K009       MA101(A), PH100(A), BE100(B), BE10105(F), BE103(A+), EE100(C), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K010       MA101(F), PH100(C), BE100(B), BE10105(C), BE103(B), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K011       MA101(C), PH100(B), BE100(B), BE10105(B+), BE103(A+), EE100(B+), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K012       MA101(B+), PH100(A+), BE100(B+), BE10105(B+), BE103(A+), EE100(B+), PH110(A+),
+[01;31m[KCHN17CS[m[K013       MA101(F), PH100(B), BE100(B), BE10105(A), BE103(A), EE100(B), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K014   MA101(F), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(A+),
+[01;31m[KCHN17CS[m[K015   MA101(F), PH100(B+), BE100(C), BE10105(F), BE103(A), EE100(B), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K016   MA101(B), PH100(B+), BE100(C), BE10105(F), BE103(B+), EE100(C), PH110(A), EE110(A),
+[01;31m[KCHN17CS[m[K017   MA101(B+), PH100(A), BE100(B+), BE10105(A+), BE103(A+), EE100(A), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K018   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K019   MA101(A), PH100(A+), BE100(B+), BE10105(A+), BE103(A), EE100(A), PH110(O), EE110(B+),
+[01;31m[KCHN17CS[m[K020   MA101(B+), PH100(C), BE100(B), BE10105(F), BE103(B), EE100(C), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K021   MA101(B), PH100(C), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K022   MA101(F), PH100(C), BE100(F), BE10105(F), BE103(F), EE100(FE), PH110(B+), EE110(B),
+[01;31m[KCHN17CS[m[K023   MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(A+),
+[01;31m[KCHN17CS[m[K024   MA101(B+), PH100(A+), BE100(O), BE10105(A+), BE103(A+), EE100(B+), PH110(A+),
+[01;31m[KCHN17CS[m[K025   MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K026   MA101(C), PH100(B+), BE100(B+), BE10105(A), BE103(B+), EE100(C), PH110(O), EE110(A),
+[01;31m[KCHN17CS[m[K027   MA101(A), PH100(B), BE100(B), BE10105(B+), BE103(A+), EE100(B), PH110(A), EE110(A+),
+[01;31m[KCHN17CS[m[K028   MA101(B+), PH100(B+), BE100(B+), BE10105(A), BE103(B+), EE100(B+), PH110(A+),
+[01;31m[KCHN17CS[m[K029   MA101(F), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(P), PH110(B+), EE110(A),
+[01;31m[KCHN17CS[m[K030   MA101(A+), PH100(A), BE100(A+), BE10105(A+), BE103(B+), EE100(B+), PH110(O),
+[01;31m[KCHN17CS[m[K031   MA101(F), PH100(C), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K032   MA101(F), PH100(C), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A),
+[01;31m[KCHN17CS[m[K033   MA101(B+), PH100(A), BE100(B+), BE10105(F), BE103(B), EE100(B+), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K034   MA101(B), PH100(B+), BE100(B), BE10105(F), BE103(A+), EE100(C), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K035   MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K036   MA101(B+), PH100(A+), BE100(A+), BE10105(B+), BE103(O), EE100(B), PH110(A+),
+[01;31m[KCHN17CS[m[K037   MA101(F), PH100(F), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(A),
+[01;31m[KCHN17CS[m[K038   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(A),
+[01;31m[KCHN17CS[m[K039   MA101(B), PH100(F), BE100(B+), BE10105(A), BE103(A), EE100(B+), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K040   MA101(B+), PH100(A), BE100(A), BE10105(A), BE103(O), EE100(B+), PH110(O), EE110(B+),
+[01;31m[KCHN17CS[m[K041   MA101(B+), PH100(F), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(B+), EE110(A),
+[01;31m[KCHN17CS[m[K042   MA101(C), PH100(F), BE100(C), BE10105(B+), BE103(A+), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K043   MA101(F), PH100(F), BE100(B), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K044   MA101(B+), PH100(B), BE100(B+), BE10105(B+), BE103(O), EE100(B), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K045   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(A+), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K046   MA101(F), PH100(F), BE100(C), BE10105(F), BE103(C), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K047   MA101(F), PH100(F), BE100(F), BE10105(B), BE103(A), EE100(FE), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K048   MA101(B), PH100(B), BE100(O), BE10105(A+), BE103(O), EE100(A), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K049   MA101(B+), PH100(A+), BE100(B), BE10105(O), BE103(A+), EE100(B+), PH110(A+),
+[01;31m[KCHN17CS[m[K050   MA101(B), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(A+), EE110(A+),
+[01;31m[KCHN17CS[m[K051   MA101(B), PH100(B), BE100(B+), BE10105(B+), BE103(A), EE100(B), PH110(A+), EE110(B),
+[01;31m[KCHN17CS[m[K052   MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(P), PH110(B+), EE110(A+),
+[01;31m[KCHN17CS[m[K053   MA101(O), PH100(B+), BE100(A), BE10105(B), BE103(A), EE100(A+), PH110(O), EE110(A+),
+[01;31m[KCHN17CS[m[K054   MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(B), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K055   MA101(F), PH100(C), BE100(B), BE10105(C), BE103(A), EE100(C), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K056   MA101(F), PH100(B), BE100(F), BE10105(B), BE103(A), EE100(C), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K057   MA101(B+), PH100(B+), BE100(B+), BE10105(A), BE103(A+), EE100(B+), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K058   MA101(B), PH100(B+), BE100(B), BE10105(B+), BE103(A+), EE100(B), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K059   MA101(B+), PH100(B+), BE100(P), BE10105(B), BE103(B+), EE100(B), PH110(A), EE110(A),
+[01;31m[KCHN17CS[m[K060   MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(A), EE100(C), PH110(B+), EE110(A),
+[01;31m[KCHN17CS[m[K061   MA101(B), PH100(B), BE100(B), BE10105(B+), BE103(B+), EE100(B), PH110(A+), EE110(O),
+[01;31m[KCHN17CS[m[K062   MA101(A+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(B), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K063   MA101(B+), PH100(B+), BE100(B), BE10105(B), BE103(A+), EE100(B), PH110(A), EE110(A),
+[01;31m[KCHN17CS[m[K064   MA101(B+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(O), EE110(B),
+[01;31m[KCHN17CS[m[K065   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K066   MA101(F), PH100(C), BE100(C), BE10105(B), BE103(A), EE100(B), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K067   MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K068   MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K069   MA101(B+), PH100(A), BE100(B+), BE10105(A), BE103(A+), EE100(B), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K070   MA101(A), PH100(A), BE100(B+), BE10105(C), BE103(O), EE100(B), PH110(O), EE110(A+),
+[01;31m[KCHN17CS[m[K071   MA101(F), PH100(F), BE100(F), BE10105(B), BE103(C), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K072   MA101(F), PH100(B), BE100(F), BE10105(C), BE103(C), EE100(C), PH110(B+), EE110(B),
+[01;31m[KCHN17CS[m[K073   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K074   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(FE), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K075   MA101(B), PH100(B), BE100(C), BE10105(C), BE103(B+), EE100(P), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K076   MA101(F), PH100(B), BE100(C), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(A),
+[01;31m[KCHN17CS[m[K077   MA101(B+), PH100(A), BE100(B+), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K078   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K079   MA101(A+), PH100(B+), BE100(B+), BE10105(B+), BE103(B+), EE100(B), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K080   MA101(B+), PH100(B), BE100(B+), BE10105(A+), BE103(B+), EE100(B), PH110(A), EE110(A+),
+[01;31m[KCHN17CS[m[K081   MA101(B+), PH100(C), BE100(C), BE10105(B+), BE103(B), EE100(F), PH110(A), EE110(B),
+[01;31m[KCHN17CS[m[K082   MA101(C), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K083   MA101(B), PH100(C), BE100(C), BE10105(B), BE103(B), EE100(C), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K084   MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K085   MA101(A), PH100(O), BE100(O), BE10105(B), BE103(B+), EE100(B+), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K086   MA101(F), PH100(F), BE100(F), BE10105(B), BE103(B), EE100(C), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K087   MA101(C), PH100(B), BE100(C), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K088   MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K089   MA101(A), PH100(C), BE100(B), BE10105(C), BE103(C), EE100(F), PH110(A), EE110(B),
+[01;31m[KCHN17CS[m[K090   MA101(F), PH100(P), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A+),
+[01;31m[KCHN17CS[m[K091   MA101(B+), PH100(A+), BE100(B+), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K092   MA101(F), PH100(B), BE100(F), BE10105(C), BE103(B), EE100(B), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K093   MA101(A+), PH100(C), BE100(B+), BE10105(A+), BE103(B), EE100(C), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K094   MA101(B+), PH100(B+), BE100(B), BE10105(A+), BE103(B+), EE100(B+), PH110(A+),
+[01;31m[KCHN17CS[m[K095   MA101(C), PH100(B+), BE100(B+), BE10105(B+), BE103(A), EE100(B+), PH110(A+), EE110(O),
+[01;31m[KCHN17CS[m[K096   MA101(B), PH100(C), BE100(P), BE10105(B), BE103(B+), EE100(F), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K097   MA101(A), PH100(A), BE100(A+), BE10105(O), BE103(A), EE100(A), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K098   MA101(O), PH100(O), BE100(A), BE10105(A), BE103(O), EE100(A), PH110(O), EE110(A),
+[01;31m[KCHN17CS[m[K099   MA101(B+), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(F), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K100   MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B), EE100(B), PH110(A+), EE110(A+),
+[01;31m[KCHN17CS[m[K101   MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(P), PH110(A+), EE110(A+),
+[01;31m[KCHN17CS[m[K102   MA101(B), PH100(C), BE100(B), BE10105(F), BE103(B+), EE100(P), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K103   MA101(B), PH100(B+), BE100(B+), BE10105(B+), BE103(A), EE100(B), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K104   MA101(B), PH100(B), BE100(C), BE10105(A+), BE103(A+), EE100(C), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K105   MA101(B), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(B), PH110(A+), EE110(B),
+[01;31m[KCHN17CS[m[K106   MA101(B), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(P), PH110(B+), EE110(A+),
+[01;31m[KCHN17CS[m[K107   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(FE), PH110(B+), EE110(B+),
+[01;31m[KCHN17CS[m[K108   MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K109   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(A),
+[01;31m[KCHN17CS[m[K110   MA101(C), PH100(B+), BE100(C), BE10105(C), BE103(A), EE100(B), PH110(A), EE110(B+),
+[01;31m[KCHN17CS[m[K111   MA101(B), PH100(B+), BE100(F), BE10105(A+), BE103(A+), EE100(B), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K112   MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH110(A+), EE110(A),
+[01;31m[KCHN17CS[m[K113   MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(A+),
+[01;31m[KCHN17CS[m[K114   MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K115   MA101(B), PH100(B+), BE100(A), BE10105(B+), BE103(A), EE100(B), PH110(O), EE110(A+),
+[01;31m[KCHN17CS[m[K116   MA101(F), PH100(A), BE100(B), BE10105(A), BE103(A+), EE100(B), PH110(O), EE110(B+),
+[01;31m[KCHN17CS[m[K117   MA101(B+), PH100(B), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(O), EE110(A+),
+[01;31m[KCHN17CS[m[K118   MA101(B), PH100(A), BE100(A), BE10105(C), BE103(B+), EE100(B+), PH110(O), EE110(O),
+[01;31m[KCHN17CS[m[K119   MA101(F), PH100(C), BE100(F), BE10105(B), BE103(B), EE100(C), PH110(A+), EE110(B+),
+[01;31m[KCHN17CS[m[K120   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(A), EE110(B+),
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ d[Kcat dbatch
+cat: dbatch: No such file or directory
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat dbatch[K]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat dbatch[K[K[K[K[K[K[K[K[K[Kcat dbatch.txt
+cat: dbatch.txt: No such file or directory
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat dbatch.txt
+Sl No.   Admn No.    Uty Reg No.                    Name
+   1.      411/17   CHN17CS004     ABIN THOMAS
+   2.      412/17   CHN17CS006     ADERSH A
+   3.      347/17   CHN17CS013     ALEN ANTO ABRAHAM
+   4.      168/17   CHN17CS017     AMAL XAVIER
+   5.      434/17   CHN17CS018     AMRITA AJITH
+   6.      420/17   CHN17CS019     ANAKHA B M
+   7.      394/17   CHN17CS021     ANIJA J
+   8.       26/17   CHN17CS022     ANJALI LAKSHMI
+   9.      382/17   CHN17CS023     ANUJA DEV R
+   10.     119/17   CHN17CS024     ANUROSE K THOMAS
+   11.     311/17   CHN17CS027     ARCHANA ROSE BIJU
+   12.     459/17   CHN17CS029     ARUN R
+   13.     386/17   CHN17CS030     ASHISH MATHEW JOHN
+   14.     388/17   CHN17CS032     ASWIN K
+   15.     113/17   CHN17CS034     ATHIRA SURESH
+   16.     456/17   CHN17CS037     AZHAR K
+   17.     197/17   CHN17CS038     BAMISHA A
+   18.     181/17   CHN17CS041     DARSANA M
+   19.     104/17   CHN17CS044     DEEPAK R
+   20.     160/17   CHN17CS045     DEVIKA KRISHNA
+   21.     172/17   CHN17CS048     GEORGI K JOSEPH
+   22.     121/17   CHN17CS051     GOUTHAM G
+   23.     378/17   CHN17CS052     GOVIND J NAIR
+   24.     143/17   CHN17CS053     GRESHMA SHAJI
+   25.     182/17   CHN17CS054     HARIDEV S
+   26.     154/17   CHN17CS055     HARIKRISHNAN S KARTHA
+   27.     445/17   CHN17CS057     JATHIN SURESH
+   28.      03/17   CHN17CS058     JENY SUSAN RAJAN
+   29.      36/17   CHN17CS063     JOEL JOSEPH
+   30.     151/17   CHN17CS064     JOHAN SAM THOMAS
+   31.     400/17   CHN17CS070     LENA GRACE JOSEPH
+   32.      17/17   CHN17CS071     LINTA MARIAM DANIEL
+   33.     393/17   CHN17CS074     MEGHA ELSA SHIBU
+   34.     389/17   CHN17CS076     MOHAMED SHAHIL K
+   35.     134/17   CHN17CS077     MONIYA MOHAN
+   36.     131/17   CHN17CS080     NIKHIL M TOMY
+   37.      10/17   CHN17CS083     NIRMAL K GEORGE MATHEW
+   38.     441/17   CHN17CS085     NITHYA VENUGOPAL
+   39.     142/17   CHN17CS088     N S ATHUL ANAND
+   40.     169/17   CHN17CS090     PRANAY PRINCE
+   41.     278/17   CHN17CS093     RITHU MARIA JOSE
+   42.     187/17   CHN17CS094     RITTY THOMAS
+   43.     423/17   CHN17CS095     ROSHIN ROY
+   44.     156/17   CHN17CS097     SACHIN R
+   45.     290/17   CHN17CS100     SAYOOJ K
+   46.     139/17   CHN17CS101     SHABEERDAS C
+   47.     115/17   CHN17CS104     SHYLESH S
+   48.     443/17   CHN17CS106     SNEHA JAYAN
+   49.     108/17   CHN17CS109     SREELAL S
+   50.     185/17   CHN17CS110     STEPHEN THOMAS
+   51.     315/17   CHN17CS111     SURYA MERIN PHILIP
+   52.     170/17   CHN17CS113     THWALIB NAZIR
+   53.     381/17   CHN17CS114     VARGHESE P P
+   54.     102/17   CHN17CS115     VIMAL K R
+   55.     192/17   CHN17CS116     VISAKH SEBASTIAN
+   56.     116/17   CHN17CS117     VISHAK P V
+   57.     357/17   CHN17CS118     VISHNU V
+   58.     404/17   CHN17CS119     VYSHAKH R
+   59.     476/17   LCHN17CS122    AMRUTHA S
+   60.     469/17   LCHN17CS124    JACOB MATHEW
+   61.     480/17   LCHN17CS121    AISWARYA J
+   62.     475/17   LCHN17CS123    HARIKRISHNAN U
+
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ grep -v -f result_CHN17[K[K.txt
+^[[A^[[A^[[A            ^Z
+[1]+  Stopped                 grep --color=auto -v -f result_CHN.txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ grep -v -f result_CHN.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcat dbatch.txt[Kgrep "CHN17CS" result_CHN.txtpdftotext result_CHN.pdf -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[C\ -layout[1Ptxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ctxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ccd Desktop[Kpdftotext result_CHN.pdf -layout[4P -layout[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ptxtexit[Kclearsed -i 's/(B)/6/g' roll1.txtP)/4[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/0[C[C[C[C[C[C[C[C[C[C[C[C[C[1@F[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/4[C[C[C[C[C[C[C[C[C[C[C[C[CC)/5[C[C[C[C[C[C[C[C[C[C[C[C[CB)/6[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/7[C[C[C[C[C[C[C[C[C[C[C[C[C[1PA)/8[C[C[C[C[C[C[C[C[C[C[C[C[CB[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A+)/9[C[C[C[C[C[C[C[C[C[C[C[C[C2.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kge[Krep -v -f result_CHN17[K[K[Kn[KN.txt  dbatch.txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ grep -v -f result_CHN.txt  dbatch.txt[Kcat dbatch.txt[Kgrep "CHN17CS" result_CHN.txtpdftotext result_CHN.pdf -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[C\ -layout[1Ptxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ctxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ccd Desktop[Kpdftotext result_CHN.pdf -layout[4P -layout[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ptxtexit[Kclearsed -i 's/(B)/6/g' roll1.txtP)/4[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksed -i 's/(0)/10/g result6_CHN.txt' result6_CHN.txt[C[C[C[C[C[C[C[C[C[C[1P_CHN.txt[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(0)/10/g' result_CHN.txt[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kz[KZ[Kgrep -v -f result_CHN.txt  dbatch.txt[Kcat dbatch.txt[Kgrep "CHN17CS" result_CHN.txtpdftotext result_CHN.pdf -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[C\ -layout[1Ptxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ctxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ccd Desktop[Kpdftotext result_CHN.pdf -layout[4P -layout[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ptxtexit[Kclear[1Pexitpdftotxt result_CHN -txtlayout[1@e[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.pdf -layoutcd Desktop[Kpdftotext result_CHN.pdf -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ctxt[C[C[C[C[C[C[C[C[1@pdf\[C[C[C[C[C[C[C[C[1P -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[C[3Pgrep "CHN17CS" result_CHN.txt[Kcat dbatch.txt[Kgrep -v -f result_CHN.txt  dbatch.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K [Ksed -i 's[Ks/[Ksed -i 's/(o[KO)/10/g' result [K_CHN.txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(O)/10/g' result_CHN.txt[1P[1@A[1@+[C[C[C[C[1P[1P[1@9[1@.[1@5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(A+)/9.5/g' result_CHN.txt[1P[C[C[C[C[C[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(A)/9/g' result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ 
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ 
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ [K]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ CAT [K[K[K[Kcat RES[K[K[Kresult.CHN.txt
+cat: result.CHN.txt: No such file or directory
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat result.CHN.txtsed -i 's/(A)/9/g' result_CHN.txt[3@+)/9.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PO)/10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/grep -v -f result_CHN.txt[11Pcat dbatch.txt[Kgrep "CHN17CS" result_CHN.txtpdftotext result_CHN.pdf -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[C\ -layout[1Ptxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ctxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ccd Desktop[Kpdftotext result_CHN.pdf -layout[4P -layout.pdf -layoutcd Desktop[Kpdftotext result_CHN.pdf -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ctxt[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcat result_CHN.txt
+                      APJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY
+                            Thiruvananthapuram, Kerala, INDIA
+
+
+                        Exam Centre: COLLEGE OF ENGINEERING CHENGANNUR
+
+
+
+                              B.Tech S1 Examination Dec 2017 (S1 Result)
+
+
+
+*TBP -To Be Published Soon
+
+
+
+                      ELECTRONICS & COMMUNICATION ENGG[Full Time]
+                   Course Code                                             Course
+
+MA101                                               CALCULUS
+
+CY100                                               ENGINEERING CHEMISTRY
+
+BE110                                               ENGINEERING GRAPHICS
+
+BE10104                                             INTRODUCTION TO ELECTRONICS ENGINEERING
+
+BE103                                               INTRODUCTION TO SUSTAINABLE ENGINEERING
+
+ME100                                               BASICS OF MECHANICAL ENGINEERING
+
+CY110                                               ENGINEERING CHEMISTRY LAB
+
+ME110                                               MECHANICAL ENGINEERING WORKSHOP
+
+EC110                                               ELECTRONICS ENGINEERING WORKSHOP
+
+
+
+   Register No                                     Course Code (Grade)
+
+CHN17EC001        MA101(B+), CY100(B+), BE11010, BE101049, BE1039.5, ME100(B+), CY1109.5, ME11010,
+                  EC11010
+
+CHN17EC002        MA101(C), CY100(C), BE110(B), BE10104(F), BE103(B+), ME100(B), CY1109, ME1109.5,
+                  EC1109.5
+
+CHN17EC003        MA101(C), CY100(B), BE110(B), BE10104(C), BE103(B+), ME100(C), CY110(B+), ME1109,
+                  EC1109.5
+
+CHN17EC004        MA101(F), CY100(C), BE110(B), BE10104(F), BE103(B), ME100(C), CY110(B+), ME11010,
+                  EC1109.5
+CHN17EC005   MA101(B+), CY1009, BE110(B+), BE10104(B+), BE10310, ME1009.5, CY1109.5, ME11010,
+             EC1109.5
+
+CHN17EC006   MA101(B+), CY100(B), BE110(F), BE10104(F), BE1039, ME100(F), CY1109, ME1109.5,
+             EC1109.5
+
+CHN17EC007   MA101(C), CY100(F), BE110(B), BE10104(F), BE103(B+), ME100(B), CY110(B+), ME1109.5,
+             EC1109.5
+
+CHN17EC008   MA101(C), CY100(C), BE110(B+), BE10104(F), BE103(B+), ME100(B), CY1109, ME11010,
+             EC11010
+
+CHN17EC009   MA1019, CY1009, BE110(B+), BE10104(B), BE1039, ME100(B+), CY11010, ME1109.5,
+             EC11010
+
+CHN17EC010   MA1019.5, CY100(B+), BE11010, BE10104(B), BE1039, ME100(B+), CY1109.5, ME11010,
+             EC11010
+
+CHN17EC011   MA101(FE), CY100(F), BE110(F), BE10104(F), BE103(C), ME100(F), CY110(B+), ME110(B+),
+             EC1109
+
+CHN17EC012   MA1019.5, CY1009, BE110(B+), BE10104(B), BE1039, ME100(B), CY1109, ME1109,
+             EC11010
+
+CHN17EC013   MA101(F), CY100(C), BE110(B), BE10104(C), BE103(B), ME100(B), CY1109.5, ME1109.5,
+             EC1109.5
+
+CHN17EC014   MA101(B+), CY100(B), BE1109, BE10104(C), BE1039, ME100(B), CY1109.5, ME1109.5,
+             EC1109
+
+CHN17EC015   MA101(B), CY100(F), BE110(B), BE10104(F), BE103(B), ME100(F), CY110(B+), ME1109.5,
+             EC1109.5
+
+CHN17EC016   MA10110, CY100(B+), BE11010, BE10104(B+), BE1039.5, ME100(B), CY1109.5, ME1109.5,
+             EC11010
+
+CHN17EC017   MA101(C), CY100(C), BE110(B+), BE10104(F), BE103(B), ME100(F), CY1109, ME1109.5,
+             EC11010
+
+CHN17EC018   MA101(C), CY100(B+), BE1109.5, BE10104(B), BE1039, ME100(B), CY1109.5, ME11010,
+             EC11010
+
+CHN17EC019   MA101(B), CY100(C), BE110(B), BE10104(B), BE103(B+), ME100(B), CY1109.5, ME1109,
+             EC1109.5
+
+CHN17EC020   MA101(B+), CY100(B+), BE110(B), BE10104(C), BE1039, ME100(B), CY1109.5, ME1109,
+             EC11010
+
+CHN17EC021   MA101(B), CY100(B+), BE110(B), BE10104(C), BE10310, ME100(B), CY11010, ME1109.5,
+             EC11010
+
+CHN17EC022   MA101(F), CY100(B), BE110(B+), BE10104(C), BE103(B+), ME100(B), CY110(B+), ME1109.5,
+             EC1109.5
+CHN17EC023   MA101(B), CY100(B+), BE110(F), BE10104(B), BE1039.5, ME100(B+), CY1109.5, ME11010,
+             EC1109
+
+CHN17EC024   MA101(F), CY100(B), BE110(F), BE10104(B), BE1039.5, ME100(B+), CY1109, ME1109.5,
+             EC11010
+
+CHN17EC025   MA101(B), CY1009.5, BE1109.5, BE10104(B+), BE1039.5, ME100(B+), CY11010,
+             ME1109.5, EC1109.5
+
+CHN17EC026   MA10110, CY10010, BE1109.5, BE10104(B+), BE10310, ME10010, CY1109.5, ME1109.5,
+             EC11010
+
+CHN17EC027   MA101(B+), CY100(C), BE110(F), BE10104(B), BE103(B+), ME100(B), CY1109, ME1109.5,
+             EC1109
+
+CHN17EC028   MA1019, CY100(B+), BE110(B+), BE10104(B), BE1039, ME100(B+), CY1109.5, ME11010,
+             EC11010
+
+CHN17EC029   MA101(F), CY100(F), BE110(F), BE10104(F), BE1039, ME100(B+), CY1109.5, ME1109,
+             EC1109.5
+
+CHN17EC030   MA101(F), CY100(C), BE110(B), BE10104(F), BE103(B+), ME100(B+), CY1109.5, ME11010,
+             EC1109.5
+
+CHN17EC031   MA101(F), CY100(F), BE110(B+), BE10104(F), BE103(B+), ME100(C), CY110(B+), ME11010,
+             EC11010
+
+CHN17EC032   MA101(C), CY100(P), BE110(B), BE10104(C), BE103(B), ME100(B), CY110(B+), ME110(B+),
+             EC11010
+
+CHN17EC033   MA101(B+), CY1009.5, BE110(B+), BE101049, BE1039.5, ME1009, CY11010, ME11010,
+             EC1109
+
+CHN17EC034   MA101(B), CY1009, BE110(B+), BE10104(B), BE1039, ME100(B+), CY1109.5, ME1109.5,
+             EC1109.5
+
+CHN17EC035   MA101(F), CY100(C), BE110(B), BE10104(C), BE103(B+), ME100(B), CY1109, ME1109.5,
+             EC1109
+
+CHN17EC036   MA101(B), CY100(B), BE110(B+), BE10104(F), BE1039, ME100(B+), CY1109.5, ME11010,
+             EC11010
+
+CHN17EC037   MA101(B), CY1009, BE110(F), BE10104(B), BE103(B+), ME100(B), CY11010, ME1109.5,
+             EC1109.5
+
+CHN17EC038   MA101(B), CY100(B), BE11010, BE10104(C), BE1039, ME100(B+), CY1109.5, ME11010,
+             EC11010
+
+CHN17EC039   MA101(F), CY100(C), BE110(F), BE10104(F), BE103(B+), ME100(C), CY11010, ME1109.5,
+             EC1109.5
+
+CHN17EC040   MA101(F), CY100(B), BE11010, BE10104(F), BE103(B+), ME100(C), CY1109, ME11010,
+             EC11010
+CHN17EC041   MA101(F), CY100(B+), BE1109, BE10104(B), BE1039, ME100(B+), CY1109, ME1109.5,
+             EC11010
+
+CHN17EC042   MA101(F), CY100(B), BE1109, BE10104(F), BE103(B+), ME100(B), CY1109.5, ME1109.5,
+             EC11010
+
+CHN17EC043   MA101(B), CY1009.5, BE1109.5, BE10104(B), BE1039.5, ME100(B+), CY11010, ME11010,
+             EC11010
+
+CHN17EC044   MA101(F), CY100(P), BE110(B+), BE10104(F), BE103(B+), ME100(C), CY110(B+), ME1109,
+             EC1109.5
+
+CHN17EC045   MA101(B), CY100(B+), BE11010, BE10104(B), BE1039, ME100(B), CY1109.5, ME11010,
+             EC11010
+
+CHN17EC046   MA1019, CY10010, BE11010, BE10104(B+), BE10310, ME100(B+), CY11010, ME11010,
+             EC11010
+
+CHN17EC047   MA101(Absent), CY100(C), BE110(B+), BE10104(B), BE103(B+), ME100(B), CY1109,
+             ME11010, EC11010
+
+CHN17EC048   MA101(F), CY100(B+), BE110(B+), BE10104(C), BE1039, ME100(B), CY1109, ME1109.5,
+             EC11010
+
+CHN17EC049   MA101(F), CY100(F), BE110(B+), BE10104(F), BE103(B+), ME100(C), CY110(B+), ME1109.5,
+             EC1109.5
+
+CHN17EC050   MA10110, CY100(B+), BE110(B+), BE10104(B), BE1039, ME100(B+), CY11010, ME1109.5,
+             EC11010
+
+CHN17EC051   MA101(F), CY100(F), BE110(F), BE10104(F), BE103(B), ME100(F), CY110(B+), ME1109,
+             EC1109.5
+
+CHN17EC052   MA101(B+), CY100(B), BE1109.5, BE10104(B), BE1039, ME1009.5, CY1109, ME1109.5,
+             EC11010
+
+CHN17EC053   MA101(F), CY100(F), BE110(B), BE10104(F), BE1039.5, ME100(B), CY110(B+), ME11010,
+             EC1109.5
+
+CHN17EC054   MA101(C), CY100(C), BE110(B), BE10104(F), BE103(B+), ME100(B+), CY1109, ME1109,
+             EC1109.5
+
+CHN17EC055   MA101(B), CY100(C), BE110(B), BE10104(B), BE1039, ME100(B), CY110(B+), ME11010,
+             EC1109.5
+
+CHN17EC056   MA101(FE), CY100(F), BE110(F), BE10104(F), BE103(B+), ME100(B), CY110(B), ME11010,
+             EC11010
+
+CHN17EC057   MA101(B+), CY100(B), BE1109.5, BE10104(C), BE1039, ME100(C), CY11010, ME1109.5,
+             EC11010
+
+CHN17EC058   MA101(F), CY100(C), BE110(F), BE10104(C), BE1039, ME100(B), CY1109, ME11010,
+             EC1109.5
+CHN17EC059   MA101(F), CY100(F), BE110(F), BE10104(F), BE103(C), ME100(P), CY1109, ME1109,
+             EC1109.5
+
+CHN17EC060   MA101(B+), CY100(B+), BE110(B+), BE10104(B), BE103(B+), ME100(B+), CY1109.5,
+             ME1109.5, EC11010
+
+CHN17EC061   MA101(B+), CY100(B), BE110(B+), BE10104(B), BE103(B), ME100(B), CY110(B), ME1109.5,
+             EC1109.5
+
+CHN17EC062   MA101(B+), CY100(B), BE1109, BE10104(C), BE103(B+), ME100(B+), CY1109, ME11010,
+             EC1109.5
+
+CHN17EC063   MA10110, CY100(B+), BE11010, BE10104(B), BE103(B+), ME100(B+), CY11010, ME1109.5,
+             EC11010
+
+CHN17EC064   MA101(C), CY100(B+), BE110(B), BE10104(B+), BE103(B), ME100(B+), CY1109.5, ME1109,
+             EC11010
+
+CHN17EC065   MA101(B), CY100(B), BE1109, BE10104(B), BE1039, ME100(B), CY11010, ME11010,
+             EC11010
+
+CHN17EC066   MA101(B), CY100(B), BE110(B+), BE10104(Absent), BE103(F), ME100(F), CY110(B+),
+             ME1109.5, EC11010
+
+CHN17EC067   MA1019, CY1009, BE110(B+), BE10104(B+), BE103(B+), ME100(B+), CY11010, ME11010,
+             EC1109.5
+
+CHN17EC068   MA101(C), CY100(P), BE110(F), BE10104(F), BE103(B), ME100(C), CY110(B+), ME1109,
+             EC1109.5
+
+CHN17EC069   MA101(B+), CY100(B+), BE110(B+), BE10104(F), BE103(B), ME100(B+), CY1109.5,
+             ME1109.5, EC11010
+
+CHN17EC070   MA101(F), CY100(C), BE110(F), BE10104(B), BE103(B+), ME100(B), CY11010, ME1109.5,
+             EC11010
+
+CHN17EC071   MA101(B), CY10010, BE1109.5, BE101049, BE103(B+), ME1009.5, CY110(B+), ME1109.5,
+             EC11010
+
+CHN17EC072   MA101(F), CY100(F), BE110(B+), BE10104(F), BE103(B), ME100(B+), CY11010, ME1109.5,
+             EC11010
+
+CHN17EC073   MA101(F), CY100(F), BE110(F), BE10104(F), BE103(B+), ME100(F), CY1109.5, ME1109.5,
+             EC1109.5
+
+CHN17EC074   MA101(F), CY100(B), BE110(B), BE10104(C), BE103(B+), ME100(B), CY110(B+), ME1109.5,
+             EC1109.5
+
+CHN17EC075   MA101(B+), CY100(B+), BE110(B+), BE10104(B), BE103(B), ME100(B+), CY1109, ME1109.5,
+             EC11010
+
+CHN17EC076   MA1019.5, CY1009, BE110(B+), BE10104(B+), BE1039, ME1009.5, CY11010, ME11010,
+             EC1109.5
+CHN17EC077   MA101(F), CY100(C), BE110(F), BE10104(F), BE103(B+), ME100(C), CY1109, ME110(B+),
+             EC1109.5
+
+CHN17EC078   MA101(P), CY100(B), BE110(B), BE10104(F), BE103(B+), ME100(C), CY1109.5, ME1109.5,
+             EC11010
+
+CHN17EC079   MA101(P), CY100(C), BE110(B), BE10104(F), BE103(B), ME100(F), CY1109, ME11010,
+             EC1109
+
+CHN17EC080   MA1019, CY1009, BE11010, BE10104(B+), BE103(B+), ME1009.5, CY1109.5, ME11010,
+             EC11010
+
+CHN17EC081   MA1019, CY100(B), BE1109.5, BE10104(B), BE103(B+), ME100(B+), CY1109, ME1109.5,
+             EC11010
+
+CHN17EC082   MA101(B+), CY1009, BE110(B+), BE10104(B), BE103(B+), ME100(B), CY11010, ME1109.5,
+             EC1109.5
+
+CHN17EC083   MA1019, CY1009, BE110(B+), BE10104(B), BE1039.5, ME100(B+), CY11010, ME1109.5,
+             EC11010
+
+CHN17EC084   MA1019, CY100(B+), BE1109.5, BE10104(B+), BE103(B), ME100(C), CY1109.5, ME1109.5,
+             EC11010
+
+CHN17EC085   MA101(B+), CY1009.5, BE110(B+), BE10104(B), BE103(B+), ME1009.5, CY11010, ME1109,
+             EC1109.5
+
+CHN17EC086   MA101(B+), CY100(B+), BE110(B+), BE10104(B), BE103(B), ME100(B), CY11010, ME11010,
+             EC11010
+
+CHN17EC087   MA101(F), CY100(B), BE110(F), BE10104(C), BE103(B+), ME100(B+), CY1109, ME1109.5,
+             EC11010
+
+CHN17EC088   MA101(B), CY100(B), BE110(B), BE10104(B), BE103(B), ME100(B+), CY1109, ME1109.5,
+             EC11010
+
+CHN17EC089   MA101(F), CY100(F), BE110(F), BE10104(F), BE103(C), ME100(C), CY110(B), ME1109.5,
+             EC1109.5
+
+CHN17EC090   MA101(F), CY100(F), BE110(F), BE10104(F), BE103(C), ME100(F), CY110(C), ME1109,
+             EC1109
+
+CHN17EC091   MA101(B), CY100(B+), BE110(F), BE10104(B), BE103(B+), ME1009, CY11010, ME1109.5,
+             EC1109.5
+
+
+
+                  COMPUTER SCIENCE & ENGINEERING[Full Time]
+             Course Code                                              Course
+
+MA101                                          CALCULUS
+
+PH100                                          ENGINEERING PHYSICS
+
+BE100                                          ENGINEERING MECHANICS
+BE10105                                            INTRODUCTION TO COMPUTING AND PROBLEM
+                                                   SOLVING
+
+BE103                                              INTRODUCTION TO SUSTAINABLE ENGINEERING
+
+EE100                                              BASICS OF ELECTRICAL ENGINEERING
+
+PH110                                              ENGINEERING PHYSICS LAB
+
+CS110                                              COMPUTER SCIENCE WORKSHOP
+
+EE110                                              ELECTRICAL ENGINEERING WORKSHOP
+
+
+
+   Register No                                    Course Code (Grade)
+
+CHN17CS001       MA1019, PH100(B+), BE100(B), BE10105(B+), BE103(B+), EE100(C), PH1109, EE110(B+),
+                 CS1109
+
+CHN17CS002       MA1019, PH100(B+), BE100(B), BE10105(B+), BE1039, EE100(B), PH110(B+), EE110(B+),
+                 CS110(B)
+
+CHN17CS003       MA101(B+), PH100(B), BE100(C), BE10105(C), BE1039.5, EE100(C), PH110(B+), EE110(B+),
+                 CS110(B)
+
+CHN17CS004       MA101(B), PH100(C), BE100(B+), BE10105(C), BE103(B+), EE100(B), PH1109, EE1109.5,
+                 CS11010
+
+CHN17CS005       MA101(C), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(B), PH1109, EE110(B+),
+                 CS110(B+)
+
+CHN17CS006       MA10110, PH100(B+), BE1009.5, BE10105(B), BE1039.5, EE100(B+), PH1109.5,
+                 EE110(B+), CS1109.5
+
+CHN17CS007       MA101(F), PH100(C), BE100(P), BE10105(F), BE103(B+), EE100(F), PH1109, EE110(B+),
+                 CS110(B+)
+
+CHN17CS008       MA101(B), PH100(B), BE100(B), BE10105(B+), BE1039, EE100(C), PH1109.5, EE110(B+),
+                 CS110(B)
+
+CHN17CS009       MA1019, PH1009, BE100(B), BE10105(F), BE1039.5, EE100(C), PH1109, EE110(B+),
+                 CS110(B)
+
+CHN17CS010       MA101(F), PH100(C), BE100(B), BE10105(C), BE103(B), EE100(C), PH110(B+), EE110(B+),
+                 CS110(B)
+
+CHN17CS011       MA101(C), PH100(B), BE100(B), BE10105(B+), BE1039.5, EE100(B+), PH1109.5, EE1109,
+                 CS1109
+
+CHN17CS012       MA101(B+), PH1009.5, BE100(B+), BE10105(B+), BE1039.5, EE100(B+), PH1109.5,
+                 EE1109.5, CS110(B+)
+
+CHN17CS013       MA101(F), PH100(B), BE100(B), BE101059, BE1039, EE100(B), PH1109.5, EE1109,
+                 CS11010
+CHN17CS014   MA101(F), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH1109, EE1109.5,
+             CS110(B+)
+
+CHN17CS015   MA101(F), PH100(B+), BE100(C), BE10105(F), BE1039, EE100(B), PH1109.5, EE1109,
+             CS110(C)
+
+CHN17CS016   MA101(B), PH100(B+), BE100(C), BE10105(F), BE103(B+), EE100(C), PH1109, EE1109,
+             CS110(B+)
+
+CHN17CS017   MA101(B+), PH1009, BE100(B+), BE101059.5, BE1039.5, EE1009, PH1109.5, EE1109,
+             CS11010
+
+CHN17CS018   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(B+),
+             CS1109
+
+CHN17CS019   MA1019, PH1009.5, BE100(B+), BE101059.5, BE1039, EE1009, PH11010, EE110(B+),
+             CS11010
+
+CHN17CS020   MA101(B+), PH100(C), BE100(B), BE10105(F), BE103(B), EE100(C), PH1109.5, EE110(B+),
+             CS110(B+)
+
+CHN17CS021   MA101(B), PH100(C), BE100(B), BE10105(B+), BE103(B), EE100(C), PH1109.5, EE110(B+),
+             CS11010
+
+CHN17CS022   MA101(F), PH100(C), BE100(F), BE10105(F), BE103(F), EE100(FE), PH110(B+), EE110(B),
+             CS1109
+
+CHN17CS023   MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE1109.5,
+             CS110(B+)
+
+CHN17CS024   MA101(B+), PH1009.5, BE10010, BE101059.5, BE1039.5, EE100(B+), PH1109.5,
+             EE110(B+), CS11010
+
+CHN17CS025   MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH1109, EE110(B+),
+             CS110(B)
+
+CHN17CS026   MA101(C), PH100(B+), BE100(B+), BE101059, BE103(B+), EE100(C), PH11010, EE1109,
+             CS1109
+
+CHN17CS027   MA1019, PH100(B), BE100(B), BE10105(B+), BE1039.5, EE100(B), PH1109, EE1109.5,
+             CS11010
+
+CHN17CS028   MA101(B+), PH100(B+), BE100(B+), BE101059, BE103(B+), EE100(B+), PH1109.5,
+             EE110(B+), CS1109.5
+
+CHN17CS029   MA101(F), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(P), PH110(B+), EE1109,
+             CS1109
+
+CHN17CS030   MA1019.5, PH1009, BE1009.5, BE101059.5, BE103(B+), EE100(B+), PH11010,
+             EE1109.5, CS11010
+
+CHN17CS031   MA101(F), PH100(C), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+             CS110(B+)
+CHN17CS032   MA101(F), PH100(C), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE1109,
+             CS1109.5
+
+CHN17CS033   MA101(B+), PH1009, BE100(B+), BE10105(F), BE103(B), EE100(B+), PH1109.5, EE1109,
+             CS110(B)
+
+CHN17CS034   MA101(B), PH100(B+), BE100(B), BE10105(F), BE1039.5, EE100(C), PH1109, EE110(B+),
+             CS1109.5
+
+CHN17CS035   MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(B+),
+             CS110(B+)
+
+CHN17CS036   MA101(B+), PH1009.5, BE1009.5, BE10105(B+), BE10310, EE100(B), PH1109.5,
+             EE1109.5, CS110(B+)
+
+CHN17CS037   MA101(F), PH100(F), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH1109, EE1109,
+             CS11010
+
+CHN17CS038   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE1109,
+             CS1109
+
+CHN17CS039   MA101(B), PH100(F), BE100(B+), BE101059, BE1039, EE100(B+), PH110(B+), EE110(B+),
+             CS110(B+)
+
+CHN17CS040   MA101(B+), PH1009, BE1009, BE101059, BE10310, EE100(B+), PH11010, EE110(B+),
+             CS1109
+
+CHN17CS041   MA101(B+), PH100(F), BE100(B), BE10105(B+), BE1039, EE100(C), PH110(B+), EE1109,
+             CS11010
+
+CHN17CS042   MA101(C), PH100(F), BE100(C), BE10105(B+), BE1039.5, EE100(C), PH110(B+), EE110(B+),
+             CS110(B+)
+
+CHN17CS043   MA101(F), PH100(F), BE100(B), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+             CS110(B+)
+
+CHN17CS044   MA101(B+), PH100(B), BE100(B+), BE10105(B+), BE10310, EE100(B), PH1109.5, EE110(B+),
+             CS11010
+
+CHN17CS045   MA101(F), PH100(F), BE100(F), BE10105(F), BE1039.5, EE100(C), PH110(B+), EE110(B+),
+             CS1109.5
+
+CHN17CS046   MA101(F), PH100(F), BE100(C), BE10105(F), BE103(C), EE100(C), PH110(B+), EE110(B+),
+             CS110(B+)
+
+CHN17CS047   MA101(F), PH100(F), BE100(F), BE10105(B), BE1039, EE100(FE), PH110(B+), EE110(B+),
+             CS110(B+)
+
+CHN17CS048   MA101(B), PH100(B), BE10010, BE101059.5, BE10310, EE1009, PH1109, EE110(B+),
+             CS11010
+
+CHN17CS049   MA101(B+), PH1009.5, BE100(B), BE1010510, BE1039.5, EE100(B+), PH1109.5,
+             EE1109.5, CS110(B+)
+CHN17CS050   MA101(B), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH1109.5, EE1109.5,
+             CS110(B+)
+
+CHN17CS051   MA101(B), PH100(B), BE100(B+), BE10105(B+), BE1039, EE100(B), PH1109.5, EE110(B),
+             CS11010
+
+CHN17CS052   MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(P), PH110(B+), EE1109.5,
+             CS11010
+
+CHN17CS053   MA10110, PH100(B+), BE1009, BE10105(B), BE1039, EE1009.5, PH11010, EE1109.5,
+             CS11010
+
+CHN17CS054   MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(B), PH110(B+), EE110(B+),
+             CS11010
+
+CHN17CS055   MA101(F), PH100(C), BE100(B), BE10105(C), BE1039, EE100(C), PH1109, EE110(B+),
+             CS11010
+
+CHN17CS056   MA101(F), PH100(B), BE100(F), BE10105(B), BE1039, EE100(C), PH1109, EE110(B+),
+             CS110(B+)
+
+CHN17CS057   MA101(B+), PH100(B+), BE100(B+), BE101059, BE1039.5, EE100(B+), PH1109.5, EE1109,
+             CS11010
+
+CHN17CS058   MA101(B), PH100(B+), BE100(B), BE10105(B+), BE1039.5, EE100(B), PH1109, EE110(B+),
+             CS11010
+
+CHN17CS059   MA101(B+), PH100(B+), BE100(P), BE10105(B), BE103(B+), EE100(B), PH1109, EE1109,
+             CS110(B+)
+
+CHN17CS060   MA101(B), PH100(B), BE100(F), BE10105(B+), BE1039, EE100(C), PH110(B+), EE1109,
+             CS11010
+
+CHN17CS061   MA101(B), PH100(B), BE100(B), BE10105(B+), BE103(B+), EE100(B), PH1109.5, EE11010,
+             CS1109
+
+CHN17CS062   MA1019.5, PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(B), PH1109.5, EE1109,
+             CS110(B+)
+
+CHN17CS063   MA101(B+), PH100(B+), BE100(B), BE10105(B), BE1039.5, EE100(B), PH1109, EE1109,
+             CS11010
+
+CHN17CS064   MA101(B+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(C), PH11010, EE110(B),
+             CS11010
+
+CHN17CS065   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+),
+             CS110(C)
+
+CHN17CS066   MA101(F), PH100(C), BE100(C), BE10105(B), BE1039, EE100(B), PH110(B+), EE110(B+),
+             CS110(B)
+
+CHN17CS067   MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH1109, EE110(B+),
+             CS110(B+)
+CHN17CS068   MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH1109, EE110(B+),
+             CS1109.5
+
+CHN17CS069   MA101(B+), PH1009, BE100(B+), BE101059, BE1039.5, EE100(B), PH1109, EE110(B+),
+             CS11010
+
+CHN17CS070   MA1019, PH1009, BE100(B+), BE10105(C), BE10310, EE100(B), PH11010, EE1109.5,
+             CS1109.5
+
+CHN17CS071   MA101(F), PH100(F), BE100(F), BE10105(B), BE103(C), EE100(C), PH110(B+), EE110(B+),
+             CS11010
+
+CHN17CS072   MA101(F), PH100(B), BE100(F), BE10105(C), BE103(C), EE100(C), PH110(B+), EE110(B),
+             CS110(B+)
+
+CHN17CS073   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+),
+             CS110(B)
+
+CHN17CS074   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(FE), PH110(B+), EE110(B+),
+             CS1109.5
+
+CHN17CS075   MA101(B), PH100(B), BE100(C), BE10105(C), BE103(B+), EE100(P), PH1109, EE110(B+),
+             CS1109.5
+
+CHN17CS076   MA101(F), PH100(B), BE100(C), BE10105(F), BE103(C), EE100(P), PH110(B+), EE1109,
+             CS1109
+
+CHN17CS077   MA101(B+), PH1009, BE100(B+), BE101059, BE103(B+), EE100(B), PH1109.5, EE110(B+),
+             CS11010
+
+CHN17CS078   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(B+),
+             CS110(B+)
+
+CHN17CS079   MA1019.5, PH100(B+), BE100(B+), BE10105(B+), BE103(B+), EE100(B), PH1109.5, EE1109,
+             CS11010
+
+CHN17CS080   MA101(B+), PH100(B), BE100(B+), BE101059.5, BE103(B+), EE100(B), PH1109, EE1109.5,
+             CS11010
+
+CHN17CS081   MA101(B+), PH100(C), BE100(C), BE10105(B+), BE103(B), EE100(F), PH1109, EE110(B),
+             CS110(B)
+
+CHN17CS082   MA101(C), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+             CS1109.5
+
+CHN17CS083   MA101(B), PH100(C), BE100(C), BE10105(B), BE103(B), EE100(C), PH1109, EE110(B+),
+             CS11010
+
+CHN17CS084   MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH1109.5, EE110(B+),
+             CS1109
+
+CHN17CS085   MA1019, PH10010, BE10010, BE10105(B), BE103(B+), EE100(B+), PH1109.5, EE110(B+),
+             CS11010
+CHN17CS086   MA101(F), PH100(F), BE100(F), BE10105(B), BE103(B), EE100(C), PH1109.5, EE1109,
+             CS1109
+
+CHN17CS087   MA101(C), PH100(B), BE100(C), BE101059, BE103(B+), EE100(B), PH1109.5, EE110(B+),
+             CS1109
+
+CHN17CS088   MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+             CS11010
+
+CHN17CS089   MA1019, PH100(C), BE100(B), BE10105(C), BE103(C), EE100(F), PH1109, EE110(B),
+             CS11010
+
+CHN17CS090   MA101(F), PH100(P), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE1109.5,
+             CS11010
+
+CHN17CS091   MA101(B+), PH1009.5, BE100(B+), BE101059, BE103(B+), EE100(B), PH1109.5, EE110(B+),
+             CS1109.5
+
+CHN17CS092   MA101(F), PH100(B), BE100(F), BE10105(C), BE103(B), EE100(B), PH1109.5, EE110(B+),
+             CS110(B+)
+
+CHN17CS093   MA1019.5, PH100(C), BE100(B+), BE101059.5, BE103(B), EE100(C), PH1109, EE110(B+),
+             CS1109.5
+
+CHN17CS094   MA101(B+), PH100(B+), BE100(B), BE101059.5, BE103(B+), EE100(B+), PH1109.5,
+             EE110(B+), CS11010
+
+CHN17CS095   MA101(C), PH100(B+), BE100(B+), BE10105(B+), BE1039, EE100(B+), PH1109.5, EE11010,
+             CS11010
+
+CHN17CS096   MA101(B), PH100(C), BE100(P), BE10105(B), BE103(B+), EE100(F), PH1109.5, EE1109,
+             CS1109
+
+CHN17CS097   MA1019, PH1009, BE1009.5, BE1010510, BE1039, EE1009, PH1109.5, EE110(B+),
+             CS11010
+
+CHN17CS098   MA10110, PH10010, BE1009, BE101059, BE10310, EE1009, PH11010, EE1109,
+             CS110(B)
+
+CHN17CS099   MA101(B+), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(F), PH1109.5, EE110(B+),
+             CS1109
+
+CHN17CS100   MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B), EE100(B), PH1109.5, EE1109.5,
+             CS1109
+
+CHN17CS101   MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(P), PH1109.5, EE1109.5,
+             CS11010
+
+CHN17CS102   MA101(B), PH100(C), BE100(B), BE10105(F), BE103(B+), EE100(P), PH1109.5, EE110(B+),
+             CS110(B)
+
+CHN17CS103   MA101(B), PH100(B+), BE100(B+), BE10105(B+), BE1039, EE100(B), PH1109.5, EE110(B+),
+             CS11010
+CHN17CS104   MA101(B), PH100(B), BE100(C), BE101059.5, BE1039.5, EE100(C), PH1109.5, EE110(B+),
+             CS11010
+
+CHN17CS105   MA101(B), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(B), PH1109.5, EE110(B),
+             CS110(B+)
+
+CHN17CS106   MA101(B), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(P), PH110(B+), EE1109.5,
+             CS11010
+
+CHN17CS107   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(FE), PH110(B+), EE110(B+),
+             CS110(B+)
+
+CHN17CS108   MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH1109, EE110(B+),
+             CS110(B+)
+
+CHN17CS109   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE1109,
+             CS110(B+)
+
+CHN17CS110   MA101(C), PH100(B+), BE100(C), BE10105(C), BE1039, EE100(B), PH1109, EE110(B+),
+             CS1109
+
+CHN17CS111   MA101(B), PH100(B+), BE100(F), BE101059.5, BE1039.5, EE100(B), PH1109.5, EE110(B+),
+             CS1109.5
+
+CHN17CS112   MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH1109.5, EE1109,
+             CS110(B+)
+
+CHN17CS113   MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE1109.5,
+             CS110(B+)
+
+CHN17CS114   MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH1109.5, EE110(B+),
+             CS11010
+
+CHN17CS115   MA101(B), PH100(B+), BE1009, BE10105(B+), BE1039, EE100(B), PH11010, EE1109.5,
+             CS11010
+
+CHN17CS116   MA101(F), PH1009, BE100(B), BE101059, BE1039.5, EE100(B), PH11010, EE110(B+),
+             CS11010
+
+CHN17CS117   MA101(B+), PH100(B), BE100(B), BE10105(B+), BE1039, EE100(C), PH11010, EE1109.5,
+             CS11010
+
+CHN17CS118   MA101(B), PH1009, BE1009, BE10105(C), BE103(B+), EE100(B+), PH11010, EE11010,
+             CS11010
+
+CHN17CS119   MA101(F), PH100(C), BE100(F), BE10105(B), BE103(B), EE100(C), PH1109.5, EE110(B+),
+             CS11010
+
+CHN17CS120   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(C), PH1109, EE110(B+),
+             CS110(B+)
+
+
+
+             ELECTRICAL AND ELECTRONICS ENGINEERING[Full Time]
+                 Course Code                                              Course
+
+MA101                                              CALCULUS
+
+PH100                                              ENGINEERING PHYSICS
+
+BE100                                              ENGINEERING MECHANICS
+
+BE10103                                            INTRODUCTION TO ELECTRICAL ENGINEERING
+
+BE103                                              INTRODUCTION TO SUSTAINABLE ENGINEERING
+
+CE100                                              BASICS OF CIVIL ENGINEERING
+
+PH110                                              ENGINEERING PHYSICS LAB
+
+CE110                                              CIVIL ENGINEERING WORKSHOP
+
+EE110                                              ELECTRICAL ENGINEERING WORKSHOP
+
+
+
+   Register No                                    Course Code (Grade)
+
+CHN17EE001       MA101(B), PH100(B+), BE100(B), BE10103(B), BE1039.5, CE100(B+), PH1109, CE11010,
+                 EE110(B+)
+
+CHN17EE002       MA101(B+), PH100(B+), BE1009, BE10103(B+), BE1039, CE100(B), PH1109.5, CE1109.5,
+                 EE1109.5
+
+CHN17EE003       MA101(F), PH100(P), BE100(F), BE10103(F), BE103(B), CE100(P), PH110(B+), CE1109.5,
+                 EE1109
+
+CHN17EE004       MA101(B), PH1009.5, BE100(B+), BE101039, BE1039.5, CE1009.5, PH11010, CE11010,
+                 EE1109.5
+
+CHN17EE005       MA101(F), PH100(F), BE100(F), BE10103(F), BE103(C), CE100(F), PH110(B+), CE1109.5,
+                 EE1109
+
+CHN17EE006       MA101(B), PH100(B+), BE100(B), BE101039, BE10310, CE1009, PH1109, CE11010,
+                 EE110(B+)
+
+CHN17EE007       MA101(B), PH100(B), BE100(F), BE10103(B), BE1039, CE100(B+), PH1109, CE11010,
+                 EE1109
+
+CHN17EE008       MA1019, PH1009, BE1009, BE101039.5, BE1039.5, CE100(B+), PH1109.5, CE11010,
+                 EE1109.5
+
+CHN17EE009       MA101(B), PH100(B), BE100(B), BE10103(F), BE103(B+), CE100(C), PH1109, CE11010,
+                 EE110(B+)
+
+CHN17EE010       MA101(B+), PH1009, BE100(B+), BE10103(B), BE1039.5, CE100(B), PH11010, CE11010,
+                 EE1109
+
+CHN17EE011       MA101(B+), PH1009.5, BE100(B), BE10103(B+), BE1039, CE100(B), PH11010, CE1109.5,
+                 EE1109
+CHN17EE012   MA101(F), PH100(F), BE100(F), BE10103(F), BE103(C), CE100(B), PH110(B+), CE11010,
+             EE110(B+)
+
+CHN17EE013   MA101(B), PH100(B), BE100(F), BE10103(C), BE1039, CE100(C), PH11010, CE11010,
+             EE1109
+
+CHN17EE014   MA101(F), PH100(C), BE100(F), BE10103(C), BE103(B), CE100(C), PH1109, CE11010,
+             EE110(B+)
+
+CHN17EE015   MA1019.5, PH1009, BE1009.5, BE101039, BE1039.5, CE100(B+), PH1109.5, CE11010,
+             EE110(B+)
+
+CHN17EE016   MA101(B+), PH1009, BE100(B), BE10103(B), BE103(B+), CE1009, PH1109.5, CE11010,
+             EE11010
+
+CHN17EE017   MA101(F), PH100(F), BE100(F), BE10103(F), BE103(C), CE100(F), PH110(B+), CE1109,
+             EE110(B)
+
+CHN17EE018   MA101(B+), PH100(B+), BE10010, BE10103(B), BE1039.5, CE100(B+), PH1109.5, CE11010,
+             EE1109
+
+CHN17EE019   MA101(C), PH100(B), BE100(F), BE10103(B), BE103(B), CE100(C), PH1109.5, CE1109.5,
+             EE110(B+)
+
+CHN17EE020   MA101(F), PH100(F), BE100(F), BE10103(F), BE103(B), CE100(F), PH110(B+), CE1109.5,
+             EE1109.5
+
+CHN17EE021   MA101(F), PH100(C), BE100(C), BE10103(F), BE103(B+), CE100(C), PH1109, CE1109.5,
+             EE1109
+
+CHN17EE022   MA101(C), PH100(B), BE100(B), BE10103(C), BE1039, CE100(B), PH110(B+), CE11010,
+             EE110(B+)
+
+CHN17EE023   MA101(F), PH100(F), BE100(F), BE10103(F), BE103(C), CE100(F), PH110(B+), CE11010,
+             EE110(B+)
+
+CHN17EE024   MA101(B+), PH100(B), BE100(B), BE10103(B), BE103(B+), CE100(C), PH1109, CE11010,
+             EE110(B+)
+
+CHN17EE025   MA101(F), PH100(C), BE100(C), BE10103(F), BE103(B), CE100(B), PH110(B+), CE1109.5,
+             EE110(B+)
+
+CHN17EE026   MA101(F), PH100(C), BE100(B), BE10103(F), BE103(B), CE100(C), PH110(B+), CE1109.5,
+             EE110(B+)
+
+CHN17EE027   MA1019, PH10010, BE100(B+), BE10103(B), BE1039.5, CE1009.5, PH1109.5, CE11010,
+             EE110(B+)
+
+CHN17EE028   MA101(B), PH100(B+), BE100(B+), BE10103(B), BE103(B+), CE1009, PH1109.5, CE11010,
+             EE1109
+
+CHN17EE029   MA101(F), PH100(B), BE100(B), BE10103(B), BE103(B), CE100(B+), PH1109, CE11010,
+             EE110(B+)
+CHN17EE030   MA1019, PH100(B+), BE100(B), BE10103(B), BE103(B), CE100(B), PH1109, CE11010,
+             EE110(B+)
+
+CHN17EE031   MA101(F), PH100(F), BE100(F), BE10103(F), BE103(B), CE100(C), PH110(B+), CE1109,
+             EE110(B)
+
+CHN17EE032   MA101(F), PH100(B+), BE100(F), BE10103(C), BE103(B+), CE100(B+), PH110(B+), CE11010,
+             EE110(B+)
+
+CHN17EE033   MA101(C), PH100(C), BE100(F), BE10103(B), BE103(B+), CE100(B), PH110(B+), CE11010,
+             EE110(B+)
+
+CHN17EE034   MA101(F), PH100(C), BE100(F), BE10103(C), BE103(B), CE100(C), PH110(B+), CE1109.5,
+             EE110(B+)
+
+CHN17EE035   MA101(F), PH100(F), BE100(F), BE10103(F), BE103(C), CE100(C), PH110(B+), CE11010,
+             EE110(B+)
+
+CHN17EE036   MA101(B+), PH100(B), BE100(B), BE101039, BE103(B+), CE1009, PH1109, CE1109.5,
+             EE1109
+
+CHN17EE037   MA101(F), PH1009, BE100(B), BE10103(B), BE1039, CE100(B+), PH1109.5, CE11010,
+             EE1109.5
+
+CHN17EE038   MA1019, PH1009.5, BE100(B+), BE101039, BE103(B+), CE100(B+), PH11010, CE11010,
+             EE1109.5
+
+CHN17EE039   MA101(B), PH100(B+), BE100(B), BE10103(B+), BE103(B+), CE100(B), PH1109.5, CE11010,
+             EE1109.5
+
+CHN17EE040   MA101(F), PH100(F), BE100(C), BE10103(F), BE103(B+), CE100(C), PH110(B+), CE11010,
+             EE1109
+
+CHN17EE041   MA101(C), PH100(B), BE100(F), BE10103(B), BE103(B+), CE100(C), PH1109.5, CE11010,
+             EE1109.5
+
+CHN17EE042   MA101(B), PH100(B+), BE100(B+), BE10103(B), BE1039, CE100(B+), PH1109.5, CE11010,
+             EE1109
+
+CHN17EE043   MA1019, PH10010, BE10010, BE101039, BE1039.5, CE1009, PH11010, CE11010,
+             EE1109.5
+
+CHN17EE044   MA1019.5, PH1009.5, BE10010, BE101039, BE1039.5, CE1009.5, PH1109.5, CE11010,
+             EE11010
+
+CHN17EE045   MA101(B+), PH1009, BE1009, BE101039, BE1039.5, CE1009.5, PH11010, CE11010,
+             EE1109.5
+
+CHN17EE046   MA101(F), PH100(F), BE100(F), BE10103(F), BE103(B), CE100(F), PH110(B+), CE1109.5,
+             EE1109.5
+
+CHN17EE047   MA101(B), PH1009, BE1009.5, BE101039.5, BE103(B+), CE100(B), PH11010, CE11010,
+             EE110(B+)
+CHN17EE048   MA101(F), PH100(C), BE100(C), BE10103(B), BE103(B), CE100(C), PH1109, CE11010,
+             EE1109.5
+
+CHN17EE049   MA101(B), PH100(B), BE100(B), BE10103(F), BE103(B+), CE100(B+), PH1109, CE11010,
+             EE110(B+)
+
+CHN17EE050   MA101(B), PH100(C), BE100(C), BE10103(F), BE103(B+), CE100(B+), PH1109.5, CE11010,
+             EE110(B+)
+
+CHN17EE051   MA101(F), PH100(B+), BE100(B), BE10103(B+), BE103(B+), CE100(B+), PH1109, CE11010,
+             EE110(B+)
+
+CHN17EE052   MA101(F), PH100(B+), BE100(B+), BE10103(B+), BE1039.5, CE1009, PH1109.5, CE11010,
+             EE1109.5
+
+CHN17EE053   MA1019.5, PH1009, BE100(B+), BE10103(B+), BE1039.5, CE100(B+), PH11010, CE11010,
+             EE1109.5
+
+CHN17EE054   MA101(B), PH100(B), BE100(B+), BE10103(B+), BE103(B+), CE100(C), PH1109.5, CE11010,
+             EE1109
+
+CHN17EE055   MA101(C), PH100(B), BE100(F), BE10103(B), BE103(B), CE100(B), PH1109, CE1109.5,
+             EE110(B+)
+
+CHN17EE056   MA10110, PH10010, BE10010, BE1010310, BE1039.5, CE1009.5, PH11010, CE11010,
+             EE11010
+
+CHN17EE057   MA101(B+), PH100(B+), BE1009, BE101039, BE103(B+), CE1009, PH1109.5, CE11010,
+             EE1109.5
+
+CHN17EE058   MA101(F), PH100(B+), BE100(C), BE10103(B), BE1039, CE100(B+), PH1109, CE1109.5,
+             EE110(B+)
+
+CHN17EE059   MA101(F), PH100(B), BE100(B), BE10103(F), BE103(B+), CE100(B), PH1109, CE11010,
+             EE1109
+
+CHN17EE060   MA101(C), PH100(B+), BE100(B), BE10103(C), BE103(B+), CE100(B+), PH1109, CE11010,
+             EE110(B+)
+
+CHN17EE061   MA101(F), PH1009.5, BE100(B), BE10103(B+), BE103(B+), CE100(B+), PH110(B+), CE11010,
+             EE1109
+
+CHN17EE062   MA101(B), PH100(B), BE100(B+), BE10103(B), BE10310, CE1009, PH1109.5, CE11010,
+             EE1109
+
+CHN17EE063   MA101(F), PH100(B+), BE100(B), BE10103(B), BE103(B+), CE100(B+), PH1109, CE11010,
+             EE110(B+)
+
+CHN17EE064   MA101(B), PH100(B), BE100(B+), BE10103(B), BE10310, CE100(B), PH1109.5, CE11010,
+             EE110(B+)
+
+CHN17EE065   MA101(B), PH100(B), BE100(B), BE10103(B), BE103(B+), CE1009, PH110(B+), CE11010,
+             EE110(B+)
+CHN17EE066   MA1019.5, PH1009.5, BE10010, BE10103(B+), BE103(B+), CE1009.5, PH11010, CE11010,
+             EE1109
+
+CHN17EE067   MA101(B+), PH100(B+), BE100(B), BE10103(B), BE103(B), CE100(B+), PH1109.5, CE1109.5,
+             EE1109
+
+CHN17EE068   MA101(F), PH100(B), BE100(B), BE10103(F), BE103(B+), CE100(B), PH1109, CE1109.5,
+             EE1109.5
+
+CHN17EE069   MA101(F), PH100(B), BE100(B), BE10103(B), BE103(B+), CE100(B+), PH1109, CE1109.5,
+             EE110(B+)
+
+CHN17EE070   MA101(F), PH100(C), BE100(C), BE10103(B), BE103(B), CE100(B), PH1109, CE1109.5,
+             EE110(B+)
+
+CHN17EE071   MA101(F), PH100(F), BE100(F), BE10103(F), BE103(F), CE100(F), PH110(B+), CE1109,
+             EE110(B)
+
+CHN17EE072   MA101(C), PH1009, BE100(B), BE10103(B), BE1039.5, CE1009, PH11010, CE1109.5,
+             EE1109
+
+CHN17EE073   MA101(B), PH100(B+), BE100(C), BE10103(C), BE103(C), CE100(C), PH110(B+), CE11010,
+             EE110(B+)
+
+CHN17EE074   MA101(B), PH100(B+), BE100(B+), BE10103(B), BE103(B+), CE100(B+), PH1109.5, CE11010,
+             EE110(B+)
+
+CHN17EE075   MA101(F), PH100(B), BE100(F), BE10103(F), BE103(B), CE100(C), PH1109, CE1109.5,
+             EE110(B+)
+
+CHN17EE076   MA1019.5, PH1009.5, BE10010, BE10103(B+), BE1039.5, CE1009, PH1109, CE11010,
+             EE1109
+
+CHN17EE077   MA101(F), PH100(P), BE100(C), BE10103(F), BE103(B+), CE100(B), PH110(B+), CE1109.5,
+             EE1109.5
+
+CHN17EE078   MA101(F), PH100(B+), BE100(C), BE10103(B), BE103(B+), CE100(B+), PH110(B+), CE11010,
+             EE1109
+
+CHN17EE079   MA101(F), PH100(C), BE100(C), BE10103(C), BE1039.5, CE100(B), PH1109, CE11010,
+             EE110(B+)
+
+CHN17EE080   MA101(B), PH100(B), BE100(B), BE10103(B), BE1039.5, CE1009, PH1109, CE11010,
+             EE1109.5
+
+CHN17EE081   MA101(B), PH100(C), BE100(C), BE10103(B), BE103(B+), CE100(C), PH1109.5, CE1109.5,
+             EE1109
+
+CHN17EE082   MA101(B), PH100(B+), BE100(F), BE10103(B), BE1039.5, CE100(B+), PH11010, CE1109.5,
+             EE110(B+)
+
+CHN17EE083   MA1019, PH100(C), BE100(B), BE10103(B), BE1039, CE100(B), PH1109.5, CE1109.5,
+             EE1109
+CHN17EE084        MA101(B), PH100(B), BE100(B+), BE10103(B+), BE1039.5, CE1009, PH1109.5, CE11010,
+                  EE1109
+
+CHN17EE085        MA101(B), PH100(B), BE100(B), BE10103(C), BE103(B+), CE100(B), PH110(B+), CE11010,
+                  EE110(B+)
+
+CHN17EE086        MA101(F), PH100(F), BE100(F), BE10103(F), BE103(B+), CE100(B), PH1109.5, CE1109,
+                  EE110(B+)
+
+CHN17EE087        MA101(B+), PH100(B+), BE100(B+), BE10103(B+), BE10310, CE1009.5, PH1109, CE11010,
+                  EE1109
+
+CHN17EE088        MA1019, PH100(C), BE100(B), BE10103(B+), BE103(B+), CE100(B), PH110(B+), CE11010,
+                  EE1109
+
+CHN17EE089        MA101(B+), PH100(B+), BE100(B+), BE10103(B+), BE10310, CE100(B+), PH1109, CE11010,
+                  EE110(B+)
+
+CHN17EE090        MA101(F), PH100(C), BE100(B), BE10103(F), BE103(B+), CE100(B), PH1109, CE1109,
+                  EE1109
+
+CHN17EE091        MA101(F), PH100(B+), BE100(B+), BE10103(B), BE1039, CE100(B+), PH1109.5, CE11010,
+                  EE1109.5
+
+CHN17EE092        MA101(F), PH100(F), BE100(F), BE10103(F), BE103(B), CE100(C), PH110(B+), CE1109.5,
+                  EE1109
+
+
+
+                 ELECTRONICS & INSTRUMENTATION ENGINEERING[Full Time]
+                   Course Code                                             Course
+
+MA101                                               CALCULUS
+
+CY100                                               ENGINEERING CHEMISTRY
+
+BE110                                               ENGINEERING GRAPHICS
+
+BE10104                                             INTRODUCTION TO ELECTRONICS ENGINEERING
+
+BE103                                               INTRODUCTION TO SUSTAINABLE ENGINEERING
+
+ME100                                               BASICS OF MECHANICAL ENGINEERING
+
+CY110                                               ENGINEERING CHEMISTRY LAB
+
+ME110                                               MECHANICAL ENGINEERING WORKSHOP
+
+EC110                                               ELECTRONICS ENGINEERING WORKSHOP
+
+
+
+   Register No                                     Course Code (Grade)
+
+CHN17AE001        MA101(F), CY100(C), BE1109.5, BE10104(F), BE103(B), ME100(C), CY1109.5, ME11010,
+                  EC11010
+CHN17AE003   MA101(F), CY100(C), BE1109.5, BE10104(B), BE103(B+), ME100(C), CY1109, ME1109.5,
+             EC11010
+
+CHN17AE004   MA101(F), CY100(F), BE110(C), BE10104(F), BE103(C), ME100(F), CY110(B), ME11010,
+             EC110(B+)
+
+CHN17AE005   MA101(F), CY100(C), BE110(F), BE10104(F), BE103(B+), ME100(C), CY1109, ME1109,
+             EC11010
+
+CHN17AE006   MA101(F), CY100(C), BE110(B), BE10104(C), BE103(B), ME100(F), CY1109.5, ME1109.5,
+             EC1109.5
+
+CHN17AE007   MA101(F), CY100(C), BE1109.5, BE10104(C), BE103(B), ME100(F), CY1109, ME1109.5,
+             EC11010
+
+CHN17AE008   MA101(B+), CY100(C), BE1109.5, BE10104(C), BE103(C), ME100(C), CY110(B+), ME11010,
+             EC11010
+
+CHN17AE009   MA101(F), CY100(B), BE110(F), BE10104(B), BE103(B), ME100(B), CY1109.5, ME1109.5,
+             EC1109
+
+CHN17AE010   MA101(C), CY100(C), BE1109.5, BE10104(B), BE103(B), ME100(C), CY1109, ME1109.5,
+             EC11010
+
+CHN17AE011   MA101(FE), CY100(F), BE110(B), BE10104(F), BE103(C), ME100(F), CY110(B+), ME11010,
+             EC1109.5
+
+CHN17AE012   MA101(C), CY100(B+), BE1109, BE10104(B), BE103(B), ME100(F), CY110(B+), ME1109.5,
+             EC1109.5
+
+CHN17AE013   MA101(FE), CY100(FE), BE110(FE), BE10104(FE), BE103(FE), ME100(FE), CY110(C),
+             ME110(FE), EC1109
+
+CHN17AE014   MA101(F), CY100(F), BE110(F), BE10104(F), BE103(C), ME100(F), CY110(B+), ME1109.5,
+             EC1109
+
+CHN17AE015   MA101(C), CY100(C), BE110(B), BE10104(C), BE1039, ME100(B), CY11010, ME1109.5,
+             EC1109.5
+
+CHN17AE016   MA101(B), CY100(B), BE110(B+), BE10104(B), BE103(B+), ME100(F), CY1109.5, ME110(B+),
+             EC11010
+
+CHN17AE017   MA101(F), CY100(F), BE110(B+), BE10104(F), BE103(B), ME100(F), CY11010, ME1109.5,
+             EC1109.5
+
+CHN17AE018   MA101(F), CY100(C), BE110(B+), BE10104(C), BE103(B), ME100(F), CY1109.5, ME1109.5,
+             EC110(B+)
+
+CHN17AE019   MA101(F), CY100(C), BE110(B+), BE10104(C), BE103(B), ME100(B), CY1109.5, ME1109.5,
+             EC11010
+
+CHN17AE020   MA101(F), CY100(C), BE110(B+), BE10104(F), BE103(B), ME100(C), CY110(B+), ME1109.5,
+             EC1109
+CHN17AE021   MA101(B), CY100(B+), BE1109, BE10104(B), BE103(B), ME100(C), CY110(B+), ME1109.5,
+             EC11010
+
+CHN17AE022   MA1019.5, CY100(B+), BE1109.5, BE10104(B+), BE103(B+), ME100(B), CY11010, ME11010,
+             EC1109.5
+
+CHN17AE023   MA101(FE), CY100(FE), BE110(F), BE10104(F), BE103(F), ME100(F), CY110(B), ME1109,
+             EC110(B+)
+
+CHN17AE024   MA101(F), CY100(F), BE110(B+), BE10104(F), BE103(B), ME100(C), CY1109, ME11010,
+             EC11010
+
+CHN17AE025   MA101(B+), CY100(B), BE11010, BE10104(B), BE103(B), ME100(B), CY1109, ME11010,
+             EC11010
+
+CHN17AE026   MA101(B+), CY100(B), BE11010, BE10104(B), BE103(B+), ME100(B), CY1109.5, ME1109.5,
+             EC1109.5
+
+CHN17AE027   MA101(F), CY100(C), BE11010, BE10104(F), BE103(C), ME100(F), CY1109, ME1109,
+             EC11010
+
+CHN17AE028   MA101(F), CY100(C), BE110(B), BE10104(B), BE103(B), ME100(C), CY1109, ME11010,
+             EC11010
+
+
+
+
+16/02/2018                                                                Controller of Examinations
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat result_CHN.txt.CHN.txtsed -i 's/(A)/9/g' result_CHN.txt[15Pcat result.CHN.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kawk '(s1[K[Ks=$3+$6+$9+$12+$15+$1[K18+$21+$24)(r[Kr=/ 8) END (P[Kprint[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgrep "c[KCHN17CS" result_CHN.T[Ktxt>s4d,[K.txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat s4d,[K.txt
+CHN17CS001       MA1019, PH100(B+), BE100(B), BE10105(B+), BE103(B+), EE100(C), PH1109, EE110(B+),
+CHN17CS002       MA1019, PH100(B+), BE100(B), BE10105(B+), BE1039, EE100(B), PH110(B+), EE110(B+),
+CHN17CS003       MA101(B+), PH100(B), BE100(C), BE10105(C), BE1039.5, EE100(C), PH110(B+), EE110(B+),
+CHN17CS004       MA101(B), PH100(C), BE100(B+), BE10105(C), BE103(B+), EE100(B), PH1109, EE1109.5,
+CHN17CS005       MA101(C), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(B), PH1109, EE110(B+),
+CHN17CS006       MA10110, PH100(B+), BE1009.5, BE10105(B), BE1039.5, EE100(B+), PH1109.5,
+CHN17CS007       MA101(F), PH100(C), BE100(P), BE10105(F), BE103(B+), EE100(F), PH1109, EE110(B+),
+CHN17CS008       MA101(B), PH100(B), BE100(B), BE10105(B+), BE1039, EE100(C), PH1109.5, EE110(B+),
+CHN17CS009       MA1019, PH1009, BE100(B), BE10105(F), BE1039.5, EE100(C), PH1109, EE110(B+),
+CHN17CS010       MA101(F), PH100(C), BE100(B), BE10105(C), BE103(B), EE100(C), PH110(B+), EE110(B+),
+CHN17CS011       MA101(C), PH100(B), BE100(B), BE10105(B+), BE1039.5, EE100(B+), PH1109.5, EE1109,
+CHN17CS012       MA101(B+), PH1009.5, BE100(B+), BE10105(B+), BE1039.5, EE100(B+), PH1109.5,
+CHN17CS013       MA101(F), PH100(B), BE100(B), BE101059, BE1039, EE100(B), PH1109.5, EE1109,
+CHN17CS014   MA101(F), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH1109, EE1109.5,
+CHN17CS015   MA101(F), PH100(B+), BE100(C), BE10105(F), BE1039, EE100(B), PH1109.5, EE1109,
+CHN17CS016   MA101(B), PH100(B+), BE100(C), BE10105(F), BE103(B+), EE100(C), PH1109, EE1109,
+CHN17CS017   MA101(B+), PH1009, BE100(B+), BE101059.5, BE1039.5, EE1009, PH1109.5, EE1109,
+CHN17CS018   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(B+),
+CHN17CS019   MA1019, PH1009.5, BE100(B+), BE101059.5, BE1039, EE1009, PH11010, EE110(B+),
+CHN17CS020   MA101(B+), PH100(C), BE100(B), BE10105(F), BE103(B), EE100(C), PH1109.5, EE110(B+),
+CHN17CS021   MA101(B), PH100(C), BE100(B), BE10105(B+), BE103(B), EE100(C), PH1109.5, EE110(B+),
+CHN17CS022   MA101(F), PH100(C), BE100(F), BE10105(F), BE103(F), EE100(FE), PH110(B+), EE110(B),
+CHN17CS023   MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE1109.5,
+CHN17CS024   MA101(B+), PH1009.5, BE10010, BE101059.5, BE1039.5, EE100(B+), PH1109.5,
+CHN17CS025   MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH1109, EE110(B+),
+CHN17CS026   MA101(C), PH100(B+), BE100(B+), BE101059, BE103(B+), EE100(C), PH11010, EE1109,
+CHN17CS027   MA1019, PH100(B), BE100(B), BE10105(B+), BE1039.5, EE100(B), PH1109, EE1109.5,
+CHN17CS028   MA101(B+), PH100(B+), BE100(B+), BE101059, BE103(B+), EE100(B+), PH1109.5,
+CHN17CS029   MA101(F), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(P), PH110(B+), EE1109,
+CHN17CS030   MA1019.5, PH1009, BE1009.5, BE101059.5, BE103(B+), EE100(B+), PH11010,
+CHN17CS031   MA101(F), PH100(C), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+CHN17CS032   MA101(F), PH100(C), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE1109,
+CHN17CS033   MA101(B+), PH1009, BE100(B+), BE10105(F), BE103(B), EE100(B+), PH1109.5, EE1109,
+CHN17CS034   MA101(B), PH100(B+), BE100(B), BE10105(F), BE1039.5, EE100(C), PH1109, EE110(B+),
+CHN17CS035   MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(B+),
+CHN17CS036   MA101(B+), PH1009.5, BE1009.5, BE10105(B+), BE10310, EE100(B), PH1109.5,
+CHN17CS037   MA101(F), PH100(F), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH1109, EE1109,
+CHN17CS038   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE1109,
+CHN17CS039   MA101(B), PH100(F), BE100(B+), BE101059, BE1039, EE100(B+), PH110(B+), EE110(B+),
+CHN17CS040   MA101(B+), PH1009, BE1009, BE101059, BE10310, EE100(B+), PH11010, EE110(B+),
+CHN17CS041   MA101(B+), PH100(F), BE100(B), BE10105(B+), BE1039, EE100(C), PH110(B+), EE1109,
+CHN17CS042   MA101(C), PH100(F), BE100(C), BE10105(B+), BE1039.5, EE100(C), PH110(B+), EE110(B+),
+CHN17CS043   MA101(F), PH100(F), BE100(B), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+CHN17CS044   MA101(B+), PH100(B), BE100(B+), BE10105(B+), BE10310, EE100(B), PH1109.5, EE110(B+),
+CHN17CS045   MA101(F), PH100(F), BE100(F), BE10105(F), BE1039.5, EE100(C), PH110(B+), EE110(B+),
+CHN17CS046   MA101(F), PH100(F), BE100(C), BE10105(F), BE103(C), EE100(C), PH110(B+), EE110(B+),
+CHN17CS047   MA101(F), PH100(F), BE100(F), BE10105(B), BE1039, EE100(FE), PH110(B+), EE110(B+),
+CHN17CS048   MA101(B), PH100(B), BE10010, BE101059.5, BE10310, EE1009, PH1109, EE110(B+),
+CHN17CS049   MA101(B+), PH1009.5, BE100(B), BE1010510, BE1039.5, EE100(B+), PH1109.5,
+CHN17CS050   MA101(B), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH1109.5, EE1109.5,
+CHN17CS051   MA101(B), PH100(B), BE100(B+), BE10105(B+), BE1039, EE100(B), PH1109.5, EE110(B),
+CHN17CS052   MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(P), PH110(B+), EE1109.5,
+CHN17CS053   MA10110, PH100(B+), BE1009, BE10105(B), BE1039, EE1009.5, PH11010, EE1109.5,
+CHN17CS054   MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(B), PH110(B+), EE110(B+),
+CHN17CS055   MA101(F), PH100(C), BE100(B), BE10105(C), BE1039, EE100(C), PH1109, EE110(B+),
+CHN17CS056   MA101(F), PH100(B), BE100(F), BE10105(B), BE1039, EE100(C), PH1109, EE110(B+),
+CHN17CS057   MA101(B+), PH100(B+), BE100(B+), BE101059, BE1039.5, EE100(B+), PH1109.5, EE1109,
+CHN17CS058   MA101(B), PH100(B+), BE100(B), BE10105(B+), BE1039.5, EE100(B), PH1109, EE110(B+),
+CHN17CS059   MA101(B+), PH100(B+), BE100(P), BE10105(B), BE103(B+), EE100(B), PH1109, EE1109,
+CHN17CS060   MA101(B), PH100(B), BE100(F), BE10105(B+), BE1039, EE100(C), PH110(B+), EE1109,
+CHN17CS061   MA101(B), PH100(B), BE100(B), BE10105(B+), BE103(B+), EE100(B), PH1109.5, EE11010,
+CHN17CS062   MA1019.5, PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(B), PH1109.5, EE1109,
+CHN17CS063   MA101(B+), PH100(B+), BE100(B), BE10105(B), BE1039.5, EE100(B), PH1109, EE1109,
+CHN17CS064   MA101(B+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(C), PH11010, EE110(B),
+CHN17CS065   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+),
+CHN17CS066   MA101(F), PH100(C), BE100(C), BE10105(B), BE1039, EE100(B), PH110(B+), EE110(B+),
+CHN17CS067   MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH1109, EE110(B+),
+CHN17CS068   MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH1109, EE110(B+),
+CHN17CS069   MA101(B+), PH1009, BE100(B+), BE101059, BE1039.5, EE100(B), PH1109, EE110(B+),
+CHN17CS070   MA1019, PH1009, BE100(B+), BE10105(C), BE10310, EE100(B), PH11010, EE1109.5,
+CHN17CS071   MA101(F), PH100(F), BE100(F), BE10105(B), BE103(C), EE100(C), PH110(B+), EE110(B+),
+CHN17CS072   MA101(F), PH100(B), BE100(F), BE10105(C), BE103(C), EE100(C), PH110(B+), EE110(B),
+CHN17CS073   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+),
+CHN17CS074   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(FE), PH110(B+), EE110(B+),
+CHN17CS075   MA101(B), PH100(B), BE100(C), BE10105(C), BE103(B+), EE100(P), PH1109, EE110(B+),
+CHN17CS076   MA101(F), PH100(B), BE100(C), BE10105(F), BE103(C), EE100(P), PH110(B+), EE1109,
+CHN17CS077   MA101(B+), PH1009, BE100(B+), BE101059, BE103(B+), EE100(B), PH1109.5, EE110(B+),
+CHN17CS078   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(B+),
+CHN17CS079   MA1019.5, PH100(B+), BE100(B+), BE10105(B+), BE103(B+), EE100(B), PH1109.5, EE1109,
+CHN17CS080   MA101(B+), PH100(B), BE100(B+), BE101059.5, BE103(B+), EE100(B), PH1109, EE1109.5,
+CHN17CS081   MA101(B+), PH100(C), BE100(C), BE10105(B+), BE103(B), EE100(F), PH1109, EE110(B),
+CHN17CS082   MA101(C), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+CHN17CS083   MA101(B), PH100(C), BE100(C), BE10105(B), BE103(B), EE100(C), PH1109, EE110(B+),
+CHN17CS084   MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH1109.5, EE110(B+),
+CHN17CS085   MA1019, PH10010, BE10010, BE10105(B), BE103(B+), EE100(B+), PH1109.5, EE110(B+),
+CHN17CS086   MA101(F), PH100(F), BE100(F), BE10105(B), BE103(B), EE100(C), PH1109.5, EE1109,
+CHN17CS087   MA101(C), PH100(B), BE100(C), BE101059, BE103(B+), EE100(B), PH1109.5, EE110(B+),
+CHN17CS088   MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(B+),
+CHN17CS089   MA1019, PH100(C), BE100(B), BE10105(C), BE103(C), EE100(F), PH1109, EE110(B),
+CHN17CS090   MA101(F), PH100(P), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE1109.5,
+CHN17CS091   MA101(B+), PH1009.5, BE100(B+), BE101059, BE103(B+), EE100(B), PH1109.5, EE110(B+),
+CHN17CS092   MA101(F), PH100(B), BE100(F), BE10105(C), BE103(B), EE100(B), PH1109.5, EE110(B+),
+CHN17CS093   MA1019.5, PH100(C), BE100(B+), BE101059.5, BE103(B), EE100(C), PH1109, EE110(B+),
+CHN17CS094   MA101(B+), PH100(B+), BE100(B), BE101059.5, BE103(B+), EE100(B+), PH1109.5,
+CHN17CS095   MA101(C), PH100(B+), BE100(B+), BE10105(B+), BE1039, EE100(B+), PH1109.5, EE11010,
+CHN17CS096   MA101(B), PH100(C), BE100(P), BE10105(B), BE103(B+), EE100(F), PH1109.5, EE1109,
+CHN17CS097   MA1019, PH1009, BE1009.5, BE1010510, BE1039, EE1009, PH1109.5, EE110(B+),
+CHN17CS098   MA10110, PH10010, BE1009, BE101059, BE10310, EE1009, PH11010, EE1109,
+CHN17CS099   MA101(B+), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(F), PH1109.5, EE110(B+),
+CHN17CS100   MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B), EE100(B), PH1109.5, EE1109.5,
+CHN17CS101   MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(P), PH1109.5, EE1109.5,
+CHN17CS102   MA101(B), PH100(C), BE100(B), BE10105(F), BE103(B+), EE100(P), PH1109.5, EE110(B+),
+CHN17CS103   MA101(B), PH100(B+), BE100(B+), BE10105(B+), BE1039, EE100(B), PH1109.5, EE110(B+),
+CHN17CS104   MA101(B), PH100(B), BE100(C), BE101059.5, BE1039.5, EE100(C), PH1109.5, EE110(B+),
+CHN17CS105   MA101(B), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(B), PH1109.5, EE110(B),
+CHN17CS106   MA101(B), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(P), PH110(B+), EE1109.5,
+CHN17CS107   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(FE), PH110(B+), EE110(B+),
+CHN17CS108   MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH1109, EE110(B+),
+CHN17CS109   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE1109,
+CHN17CS110   MA101(C), PH100(B+), BE100(C), BE10105(C), BE1039, EE100(B), PH1109, EE110(B+),
+CHN17CS111   MA101(B), PH100(B+), BE100(F), BE101059.5, BE1039.5, EE100(B), PH1109.5, EE110(B+),
+CHN17CS112   MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH1109.5, EE1109,
+CHN17CS113   MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE1109.5,
+CHN17CS114   MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH1109.5, EE110(B+),
+CHN17CS115   MA101(B), PH100(B+), BE1009, BE10105(B+), BE1039, EE100(B), PH11010, EE1109.5,
+CHN17CS116   MA101(F), PH1009, BE100(B), BE101059, BE1039.5, EE100(B), PH11010, EE110(B+),
+CHN17CS117   MA101(B+), PH100(B), BE100(B), BE10105(B+), BE1039, EE100(C), PH11010, EE1109.5,
+CHN17CS118   MA101(B), PH1009, BE1009, BE10105(C), BE103(B+), EE100(B+), PH11010, EE11010,
+CHN17CS119   MA101(F), PH100(C), BE100(F), BE10105(B), BE103(B), EE100(C), PH1109.5, EE110(B+),
+CHN17CS120   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(C), PH1109, EE110(B+),
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ ss[K[Ksed -i 'sa[K/(o[KO)/ 10 /G[Kg' s4d.6x[K[Ktxt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(O)/ 10 /g' s4d.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ 
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ 
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ clear
+[H[2J]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ script ceccs17d09[K8[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclearsed -i 's/(O)/ 10 /g' s4d.txt[18Pcat[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[Kgrep "CHN17CS" result_CHN.txt>s4d.txt[19Pcat result_CHN.txt.CHN.txtsed -i 's/(A)/9/g' result_CHN.txt[3@+)/9.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PO)/10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/grep -v -f result_CHN.txt[11Pcat dbatch.txt[Kgrep "CHN17CS" result_CHN.txtpdftotext result_CHN.pdf -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[C\ -layout[1Ptxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ctxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ccd Desktop[Kpdftotext result_CHN.pdf -layout[4P -layout[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ptxtexit[Kclearsed -i 's/(B)/6/g' roll1.txtP)/4[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/0[C[C[C[C[C[C[C[C[C[C[C[C[C[1@P)/4[C[C[C[C[C[C[C[C[C[C[C[C[CB)/6[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[K[1Pexitpdftotxt result_CHN -txtlayout[1@e[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.pdf -layoutcd Desktop[Kpdftotext result_CHN.pdf -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[Ctxt[C[C[C[C[C[C[C[C[1@pdf\[C[C[C[C[C[C[C[C[1P -layouttxt[C[C[C[C[C[C[C[Cpdf[C[C[C[C[C[C[C[C[3Pgrep "CHN17CS" result_CHN.txt[Kcat dbatch.txtgrep -v -f result_CHN.txt[15Psed -i 's/[Ksed -i 's/(O)/10/g' result_CHN.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[Ks4d.txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(O)/10/g' s4d.txt[1P[1@a[1P[1@A[1@+[C[C[1@ [1@ [C[C[1@ [C[C[1P[1P[1@9[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(A+)/  9 /g' s4d.txt[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(A+)/  9 /g' s4d.txt[1P[C[C[C[C[C[1P[1@8[1@.[1@5[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(A)/  8.5 /g' s4d.txt[C[C[1P[1@B[1@+[C[C[C[C[C[C[C[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(B+)/  8 /g' s4d.txt[1P[C[C[C[C[C[1P[1@7[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(B)/  7 /g' s4d.txt[C[C[C[1P[1@C[C[C[C[C[C[C[C[C[C[C[1P[1@6[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(C)/  6 /g' s4d.txt[1P[1@P[C[C[C[C[C[1P[1@0[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(P)/  0 /g' s4d.txt[1P[1@F[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(F)/  0 /g' s4d.txt[C[C[C[C[1P[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -i 's/(E)/  0 /g' s4d.txt[C[1P[1@I[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ CAT [K[K[K[KC[Kcs[Kat s4d
+cat: s4d: No such file or directory
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat s4d.txt
+CHN17CS001       MA1019, PH100  8 , BE100  7 , BE10105  8 , BE103  8 , EE100  6 , PH1109, EE110  8 ,
+CHN17CS002       MA1019, PH100  8 , BE100  7 , BE10105  8 , BE1039, EE100  7 , PH110  8 , EE110  8 ,
+CHN17CS003       MA101  8 , PH100  7 , BE100  6 , BE10105  6 , BE1039.5, EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS004       MA101  7 , PH100  6 , BE100  8 , BE10105  6 , BE103  8 , EE100  7 , PH1109, EE1109.5,
+CHN17CS005       MA101  6 , PH100  7 , BE100  7 , BE10105  6 , BE103  8 , EE100  7 , PH1109, EE110  8 ,
+CHN17CS006       MA10110, PH100  8 , BE1009.5, BE10105  7 , BE1039.5, EE100  8 , PH1109.5,
+CHN17CS007       MA101  0 , PH100  6 , BE100  0 , BE10105  0 , BE103  8 , EE100  0 , PH1109, EE110  8 ,
+CHN17CS008       MA101  7 , PH100  7 , BE100  7 , BE10105  8 , BE1039, EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS009       MA1019, PH1009, BE100  7 , BE10105  0 , BE1039.5, EE100  6 , PH1109, EE110  8 ,
+CHN17CS010       MA101  0 , PH100  6 , BE100  7 , BE10105  6 , BE103  7 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS011       MA101  6 , PH100  7 , BE100  7 , BE10105  8 , BE1039.5, EE100  8 , PH1109.5, EE1109,
+CHN17CS012       MA101  8 , PH1009.5, BE100  8 , BE10105  8 , BE1039.5, EE100  8 , PH1109.5,
+CHN17CS013       MA101  0 , PH100  7 , BE100  7 , BE101059, BE1039, EE100  7 , PH1109.5, EE1109,
+CHN17CS014   MA101  0 , PH100  7 , BE100  0 , BE10105  8 , BE103  8 , EE100  6 , PH1109, EE1109.5,
+CHN17CS015   MA101  0 , PH100  8 , BE100  6 , BE10105  0 , BE1039, EE100  7 , PH1109.5, EE1109,
+CHN17CS016   MA101  7 , PH100  8 , BE100  6 , BE10105  0 , BE103  8 , EE100  6 , PH1109, EE1109,
+CHN17CS017   MA101  8 , PH1009, BE100  8 , BE101059.5, BE1039.5, EE1009, PH1109.5, EE1109,
+CHN17CS018   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  6 , EE100  0 , PH110  8 , EE110  8 ,
+CHN17CS019   MA1019, PH1009.5, BE100  8 , BE101059.5, BE1039, EE1009, PH11010, EE110  8 ,
+CHN17CS020   MA101  8 , PH100  6 , BE100  7 , BE10105  0 , BE103  7 , EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS021   MA101  7 , PH100  6 , BE100  7 , BE10105  8 , BE103  7 , EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS022   MA101  0 , PH100  6 , BE100  0 , BE10105  0 , BE103  0 , EE100(FE), PH110  8 , EE110  7 ,
+CHN17CS023   MA101  0 , PH100  6 , BE100  0 , BE10105  0 , BE103  8 , EE100  6 , PH110  8 , EE1109.5,
+CHN17CS024   MA101  8 , PH1009.5, BE10010, BE101059.5, BE1039.5, EE100  8 , PH1109.5,
+CHN17CS025   MA101  0 , PH100  7 , BE100  7 , BE10105  6 , BE103  8 , EE100  6 , PH1109, EE110  8 ,
+CHN17CS026   MA101  6 , PH100  8 , BE100  8 , BE101059, BE103  8 , EE100  6 , PH11010, EE1109,
+CHN17CS027   MA1019, PH100  7 , BE100  7 , BE10105  8 , BE1039.5, EE100  7 , PH1109, EE1109.5,
+CHN17CS028   MA101  8 , PH100  8 , BE100  8 , BE101059, BE103  8 , EE100  8 , PH1109.5,
+CHN17CS029   MA101  0 , PH100  0 , BE100  0 , BE10105  6 , BE103  8 , EE100  0 , PH110  8 , EE1109,
+CHN17CS030   MA1019.5, PH1009, BE1009.5, BE101059.5, BE103  8 , EE100  8 , PH11010,
+CHN17CS031   MA101  0 , PH100  6 , BE100  0 , BE10105  6 , BE103  8 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS032   MA101  0 , PH100  6 , BE100  6 , BE10105  8 , BE103  8 , EE100  6 , PH110  8 , EE1109,
+CHN17CS033   MA101  8 , PH1009, BE100  8 , BE10105  0 , BE103  7 , EE100  8 , PH1109.5, EE1109,
+CHN17CS034   MA101  7 , PH100  8 , BE100  7 , BE10105  0 , BE1039.5, EE100  6 , PH1109, EE110  8 ,
+CHN17CS035   MA101  0 , PH100  6 , BE100  0 , BE10105  0 , BE103  7 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS036   MA101  8 , PH1009.5, BE1009.5, BE10105  8 , BE10310, EE100  7 , PH1109.5,
+CHN17CS037   MA101  0 , PH100  0 , BE100  6 , BE10105  8 , BE103  8 , EE100  6 , PH1109, EE1109,
+CHN17CS038   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  7 , EE100  6 , PH110  8 , EE1109,
+CHN17CS039   MA101  7 , PH100  0 , BE100  8 , BE101059, BE1039, EE100  8 , PH110  8 , EE110  8 ,
+CHN17CS040   MA101  8 , PH1009, BE1009, BE101059, BE10310, EE100  8 , PH11010, EE110  8 ,
+CHN17CS041   MA101  8 , PH100  0 , BE100  7 , BE10105  8 , BE1039, EE100  6 , PH110  8 , EE1109,
+CHN17CS042   MA101  6 , PH100  0 , BE100  6 , BE10105  8 , BE1039.5, EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS043   MA101  0 , PH100  0 , BE100  7 , BE10105  0 , BE103  8 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS044   MA101  8 , PH100  7 , BE100  8 , BE10105  8 , BE10310, EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS045   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE1039.5, EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS046   MA101  0 , PH100  0 , BE100  6 , BE10105  0 , BE103  6 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS047   MA101  0 , PH100  0 , BE100  0 , BE10105  7 , BE1039, EE100(FE), PH110  8 , EE110  8 ,
+CHN17CS048   MA101  7 , PH100  7 , BE10010, BE101059.5, BE10310, EE1009, PH1109, EE110  8 ,
+CHN17CS049   MA101  8 , PH1009.5, BE100  7 , BE1010510, BE1039.5, EE100  8 , PH1109.5,
+CHN17CS050   MA101  7 , PH100  7 , BE100  7 , BE10105  6 , BE103  8 , EE100  6 , PH1109.5, EE1109.5,
+CHN17CS051   MA101  7 , PH100  7 , BE100  8 , BE10105  8 , BE1039, EE100  7 , PH1109.5, EE110  7 ,
+CHN17CS052   MA101  0 , PH100  0 , BE100  0 , BE10105  8 , BE103  8 , EE100  0 , PH110  8 , EE1109.5,
+CHN17CS053   MA10110, PH100  8 , BE1009, BE10105  7 , BE1039, EE1009.5, PH11010, EE1109.5,
+CHN17CS054   MA101  7 , PH100  7 , BE100  0 , BE10105  8 , BE103  8 , EE100  7 , PH110  8 , EE110  8 ,
+CHN17CS055   MA101  0 , PH100  6 , BE100  7 , BE10105  6 , BE1039, EE100  6 , PH1109, EE110  8 ,
+CHN17CS056   MA101  0 , PH100  7 , BE100  0 , BE10105  7 , BE1039, EE100  6 , PH1109, EE110  8 ,
+CHN17CS057   MA101  8 , PH100  8 , BE100  8 , BE101059, BE1039.5, EE100  8 , PH1109.5, EE1109,
+CHN17CS058   MA101  7 , PH100  8 , BE100  7 , BE10105  8 , BE1039.5, EE100  7 , PH1109, EE110  8 ,
+CHN17CS059   MA101  8 , PH100  8 , BE100  0 , BE10105  7 , BE103  8 , EE100  7 , PH1109, EE1109,
+CHN17CS060   MA101  7 , PH100  7 , BE100  0 , BE10105  8 , BE1039, EE100  6 , PH110  8 , EE1109,
+CHN17CS061   MA101  7 , PH100  7 , BE100  7 , BE10105  8 , BE103  8 , EE100  7 , PH1109.5, EE11010,
+CHN17CS062   MA1019.5, PH100  8 , BE100  7 , BE10105  8 , BE103  7 , EE100  7 , PH1109.5, EE1109,
+CHN17CS063   MA101  8 , PH100  8 , BE100  7 , BE10105  7 , BE1039.5, EE100  7 , PH1109, EE1109,
+CHN17CS064   MA101  8 , PH100  8 , BE100  7 , BE10105  8 , BE103  7 , EE100  6 , PH11010, EE110  7 ,
+CHN17CS065   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  7 , EE100  0 , PH110  8 , EE110  8 ,
+CHN17CS066   MA101  0 , PH100  6 , BE100  6 , BE10105  7 , BE1039, EE100  7 , PH110  8 , EE110  8 ,
+CHN17CS067   MA101  7 , PH100  7 , BE100  6 , BE10105  8 , BE103  8 , EE100  7 , PH1109, EE110  8 ,
+CHN17CS068   MA101  7 , PH100  8 , BE100  7 , BE10105  6 , BE103  8 , EE100  7 , PH1109, EE110  8 ,
+CHN17CS069   MA101  8 , PH1009, BE100  8 , BE101059, BE1039.5, EE100  7 , PH1109, EE110  8 ,
+CHN17CS070   MA1019, PH1009, BE100  8 , BE10105  6 , BE10310, EE100  7 , PH11010, EE1109.5,
+CHN17CS071   MA101  0 , PH100  0 , BE100  0 , BE10105  7 , BE103  6 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS072   MA101  0 , PH100  7 , BE100  0 , BE10105  6 , BE103  6 , EE100  6 , PH110  8 , EE110  7 ,
+CHN17CS073   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  7 , EE100  0 , PH110  8 , EE110  8 ,
+CHN17CS074   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  8 , EE100(FE), PH110  8 , EE110  8 ,
+CHN17CS075   MA101  7 , PH100  7 , BE100  6 , BE10105  6 , BE103  8 , EE100  0 , PH1109, EE110  8 ,
+CHN17CS076   MA101  0 , PH100  7 , BE100  6 , BE10105  0 , BE103  6 , EE100  0 , PH110  8 , EE1109,
+CHN17CS077   MA101  8 , PH1009, BE100  8 , BE101059, BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS078   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  6 , EE100  0 , PH110  8 , EE110  8 ,
+CHN17CS079   MA1019.5, PH100  8 , BE100  8 , BE10105  8 , BE103  8 , EE100  7 , PH1109.5, EE1109,
+CHN17CS080   MA101  8 , PH100  7 , BE100  8 , BE101059.5, BE103  8 , EE100  7 , PH1109, EE1109.5,
+CHN17CS081   MA101  8 , PH100  6 , BE100  6 , BE10105  8 , BE103  7 , EE100  0 , PH1109, EE110  7 ,
+CHN17CS082   MA101  6 , PH100  0 , BE100  0 , BE10105  6 , BE103  8 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS083   MA101  7 , PH100  6 , BE100  6 , BE10105  7 , BE103  7 , EE100  6 , PH1109, EE110  8 ,
+CHN17CS084   MA101  7 , PH100  7 , BE100  6 , BE10105  8 , BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS085   MA1019, PH10010, BE10010, BE10105  7 , BE103  8 , EE100  8 , PH1109.5, EE110  8 ,
+CHN17CS086   MA101  0 , PH100  0 , BE100  0 , BE10105  7 , BE103  7 , EE100  6 , PH1109.5, EE1109,
+CHN17CS087   MA101  6 , PH100  7 , BE100  6 , BE101059, BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS088   MA101  0 , PH100  0 , BE100  0 , BE10105  8 , BE103  8 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS089   MA1019, PH100  6 , BE100  7 , BE10105  6 , BE103  6 , EE100  0 , PH1109, EE110  7 ,
+CHN17CS090   MA101  0 , PH100  0 , BE100  0 , BE10105  8 , BE103  8 , EE100  6 , PH110  8 , EE1109.5,
+CHN17CS091   MA101  8 , PH1009.5, BE100  8 , BE101059, BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS092   MA101  0 , PH100  7 , BE100  0 , BE10105  6 , BE103  7 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS093   MA1019.5, PH100  6 , BE100  8 , BE101059.5, BE103  7 , EE100  6 , PH1109, EE110  8 ,
+CHN17CS094   MA101  8 , PH100  8 , BE100  7 , BE101059.5, BE103  8 , EE100  8 , PH1109.5,
+CHN17CS095   MA101  6 , PH100  8 , BE100  8 , BE10105  8 , BE1039, EE100  8 , PH1109.5, EE11010,
+CHN17CS096   MA101  7 , PH100  6 , BE100  0 , BE10105  7 , BE103  8 , EE100  0 , PH1109.5, EE1109,
+CHN17CS097   MA1019, PH1009, BE1009.5, BE1010510, BE1039, EE1009, PH1109.5, EE110  8 ,
+CHN17CS098   MA10110, PH10010, BE1009, BE101059, BE10310, EE1009, PH11010, EE1109,
+CHN17CS099   MA101  8 , PH100  7 , BE100  6 , BE10105  8 , BE103  8 , EE100  0 , PH1109.5, EE110  8 ,
+CHN17CS100   MA101  0 , PH100  7 , BE100  7 , BE10105  7 , BE103  7 , EE100  7 , PH1109.5, EE1109.5,
+CHN17CS101   MA101  0 , PH100  7 , BE100  7 , BE10105  7 , BE103  8 , EE100  0 , PH1109.5, EE1109.5,
+CHN17CS102   MA101  7 , PH100  6 , BE100  7 , BE10105  0 , BE103  8 , EE100  0 , PH1109.5, EE110  8 ,
+CHN17CS103   MA101  7 , PH100  8 , BE100  8 , BE10105  8 , BE1039, EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS104   MA101  7 , PH100  7 , BE100  6 , BE101059.5, BE1039.5, EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS105   MA101  7 , PH100  7 , BE100  7 , BE10105  7 , BE103  8 , EE100  7 , PH1109.5, EE110  7 ,
+CHN17CS106   MA101  7 , PH100  6 , BE100  0 , BE10105  0 , BE103  7 , EE100  0 , PH110  8 , EE1109.5,
+CHN17CS107   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  7 , EE100(FE), PH110  8 , EE110  8 ,
+CHN17CS108   MA101  8 , PH100  8 , BE100  6 , BE10105  6 , BE103  8 , EE100  7 , PH1109, EE110  8 ,
+CHN17CS109   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  6 , EE100  0 , PH110  8 , EE1109,
+CHN17CS110   MA101  6 , PH100  8 , BE100  6 , BE10105  6 , BE1039, EE100  7 , PH1109, EE110  8 ,
+CHN17CS111   MA101  7 , PH100  8 , BE100  0 , BE101059.5, BE1039.5, EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS112   MA101  8 , PH100  8 , BE100  6 , BE10105  6 , BE103  8 , EE100  7 , PH1109.5, EE1109,
+CHN17CS113   MA101  0 , PH100  7 , BE100  7 , BE10105  6 , BE103  8 , EE100  6 , PH110  8 , EE1109.5,
+CHN17CS114   MA101  7 , PH100  8 , BE100  7 , BE10105  6 , BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS115   MA101  7 , PH100  8 , BE1009, BE10105  8 , BE1039, EE100  7 , PH11010, EE1109.5,
+CHN17CS116   MA101  0 , PH1009, BE100  7 , BE101059, BE1039.5, EE100  7 , PH11010, EE110  8 ,
+CHN17CS117   MA101  8 , PH100  7 , BE100  7 , BE10105  8 , BE1039, EE100  6 , PH11010, EE1109.5,
+CHN17CS118   MA101  7 , PH1009, BE1009, BE10105  6 , BE103  8 , EE100  8 , PH11010, EE11010,
+CHN17CS119   MA101  0 , PH100  6 , BE100  0 , BE10105  7 , BE103  7 , EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS120   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  8 , EE100  6 , PH1109, EE110  8 ,
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ awk '{s=$3=^?[K[K+$6+$9+$12+#15+$18+$21+$24)[K}{r=s /8}{print r} [K' s4d.txt>cgpa.txt
+awk: line 1: syntax error at or near end of line
+awk: line 2: missing } near end of file
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ [K]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ awk '{s=$3+$6+$9+$12+#15+$18+$21+$24}{r=s/8}{print r}' s4d.txt>cgpa.txt[1P[1@$[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ catv[K cgpa.txt
+0
+0
+3.375
+5.25
+5.125
+1
+1.75
+3.625
+0.75
+6
+3.5
+1
+1.75
+3.625
+1.75
+4.375
+1
+2.75
+1
+4.25
+5.125
+0.75
+3.5
+1
+4.25
+2.75
+0
+3
+2.75
+0
+5.25
+5.25
+1
+2.75
+4.375
+1.875
+3.5
+2.625
+1.875
+1
+2.875
+2.5
+4.625
+3.875
+0
+4.25
+0.875
+1.75
+2
+5.125
+3.75
+3
+0
+6.625
+2.375
+1.75
+3
+3.75
+4.75
+2.75
+5.5
+0
+3.75
+5.5
+2.875
+2.375
+5.375
+5.375
+1.875
+0.875
+4.375
+5
+2.875
+1
+4.25
+3.375
+2
+2.75
+0
+2.875
+4.375
+5.25
+4.875
+5.375
+2.875
+2.5
+2.375
+4.75
+0
+3.75
+2
+3.375
+1
+2.875
+3.75
+3.5
+0
+0
+4.625
+4.375
+3.625
+3.5
+3.875
+3.5
+5.375
+3.5
+0.875
+5.375
+1.75
+3.25
+2.875
+5.375
+5.25
+5.375
+1.875
+0.875
+3.75
+0.875
+3.25
+1.75
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat cgpa.txtawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' s4d.txt>cgpa.txt#[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat s4d.txt[K[Ksed -i 's/(I)/  0 /g' s4d.txtE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/  6[C[C[C[C[C[C[C[C[C[C[C[CB)/  7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/  8[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/  8.5[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/  9[C[C[C[C[C[C[C[C[C[C[C[C[3PO)/10[C[C[C[C[C[C[C[C[C[C[Cclear[Ksed -i 's/(O)/10/g' s4d.txt[3@A+)/  9 [C[C[C[C[C[C[C[C[C[C[C[1@)/  8.5[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/  8[C[C[C[C[C[C[C[C[C[C[C[C[1P)/  7[C[C[C[C[C[C[C[C[C[C[C[CC)/  6[C[C[C[C[C[C[C[C[C[C[C[CP)/  0[C[C[C[C[C[C[C[C[C[C[C[CF[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat s4d[K.txtawk '{s=$3+$6+$9+$12+#15+$18+$21+$24}{r=s/8}{print r}' s4d.txt>cgpa.txt$[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat s4d.txt
+CHN17CS001       MA1019, PH100  8 , BE100  7 , BE10105  8 , BE103  8 , EE100  6 , PH1109, EE110  8 ,
+CHN17CS002       MA1019, PH100  8 , BE100  7 , BE10105  8 , BE1039, EE100  7 , PH110  8 , EE110  8 ,
+CHN17CS003       MA101  8 , PH100  7 , BE100  6 , BE10105  6 , BE1039.5, EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS004       MA101  7 , PH100  6 , BE100  8 , BE10105  6 , BE103  8 , EE100  7 , PH1109, EE1109.5,
+CHN17CS005       MA101  6 , PH100  7 , BE100  7 , BE10105  6 , BE103  8 , EE100  7 , PH1109, EE110  8 ,
+CHN17CS006       MA10110, PH100  8 , BE1009.5, BE10105  7 , BE1039.5, EE100  8 , PH1109.5,
+CHN17CS007       MA101  0 , PH100  6 , BE100  0 , BE10105  0 , BE103  8 , EE100  0 , PH1109, EE110  8 ,
+CHN17CS008       MA101  7 , PH100  7 , BE100  7 , BE10105  8 , BE1039, EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS009       MA1019, PH1009, BE100  7 , BE10105  0 , BE1039.5, EE100  6 , PH1109, EE110  8 ,
+CHN17CS010       MA101  0 , PH100  6 , BE100  7 , BE10105  6 , BE103  7 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS011       MA101  6 , PH100  7 , BE100  7 , BE10105  8 , BE1039.5, EE100  8 , PH1109.5, EE1109,
+CHN17CS012       MA101  8 , PH1009.5, BE100  8 , BE10105  8 , BE1039.5, EE100  8 , PH1109.5,
+CHN17CS013       MA101  0 , PH100  7 , BE100  7 , BE101059, BE1039, EE100  7 , PH1109.5, EE1109,
+CHN17CS014   MA101  0 , PH100  7 , BE100  0 , BE10105  8 , BE103  8 , EE100  6 , PH1109, EE1109.5,
+CHN17CS015   MA101  0 , PH100  8 , BE100  6 , BE10105  0 , BE1039, EE100  7 , PH1109.5, EE1109,
+CHN17CS016   MA101  7 , PH100  8 , BE100  6 , BE10105  0 , BE103  8 , EE100  6 , PH1109, EE1109,
+CHN17CS017   MA101  8 , PH1009, BE100  8 , BE101059.5, BE1039.5, EE1009, PH1109.5, EE1109,
+CHN17CS018   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  6 , EE100  0 , PH110  8 , EE110  8 ,
+CHN17CS019   MA1019, PH1009.5, BE100  8 , BE101059.5, BE1039, EE1009, PH11010, EE110  8 ,
+CHN17CS020   MA101  8 , PH100  6 , BE100  7 , BE10105  0 , BE103  7 , EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS021   MA101  7 , PH100  6 , BE100  7 , BE10105  8 , BE103  7 , EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS022   MA101  0 , PH100  6 , BE100  0 , BE10105  0 , BE103  0 , EE100(FE), PH110  8 , EE110  7 ,
+CHN17CS023   MA101  0 , PH100  6 , BE100  0 , BE10105  0 , BE103  8 , EE100  6 , PH110  8 , EE1109.5,
+CHN17CS024   MA101  8 , PH1009.5, BE10010, BE101059.5, BE1039.5, EE100  8 , PH1109.5,
+CHN17CS025   MA101  0 , PH100  7 , BE100  7 , BE10105  6 , BE103  8 , EE100  6 , PH1109, EE110  8 ,
+CHN17CS026   MA101  6 , PH100  8 , BE100  8 , BE101059, BE103  8 , EE100  6 , PH11010, EE1109,
+CHN17CS027   MA1019, PH100  7 , BE100  7 , BE10105  8 , BE1039.5, EE100  7 , PH1109, EE1109.5,
+CHN17CS028   MA101  8 , PH100  8 , BE100  8 , BE101059, BE103  8 , EE100  8 , PH1109.5,
+CHN17CS029   MA101  0 , PH100  0 , BE100  0 , BE10105  6 , BE103  8 , EE100  0 , PH110  8 , EE1109,
+CHN17CS030   MA1019.5, PH1009, BE1009.5, BE101059.5, BE103  8 , EE100  8 , PH11010,
+CHN17CS031   MA101  0 , PH100  6 , BE100  0 , BE10105  6 , BE103  8 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS032   MA101  0 , PH100  6 , BE100  6 , BE10105  8 , BE103  8 , EE100  6 , PH110  8 , EE1109,
+CHN17CS033   MA101  8 , PH1009, BE100  8 , BE10105  0 , BE103  7 , EE100  8 , PH1109.5, EE1109,
+CHN17CS034   MA101  7 , PH100  8 , BE100  7 , BE10105  0 , BE1039.5, EE100  6 , PH1109, EE110  8 ,
+CHN17CS035   MA101  0 , PH100  6 , BE100  0 , BE10105  0 , BE103  7 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS036   MA101  8 , PH1009.5, BE1009.5, BE10105  8 , BE10310, EE100  7 , PH1109.5,
+CHN17CS037   MA101  0 , PH100  0 , BE100  6 , BE10105  8 , BE103  8 , EE100  6 , PH1109, EE1109,
+CHN17CS038   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  7 , EE100  6 , PH110  8 , EE1109,
+CHN17CS039   MA101  7 , PH100  0 , BE100  8 , BE101059, BE1039, EE100  8 , PH110  8 , EE110  8 ,
+CHN17CS040   MA101  8 , PH1009, BE1009, BE101059, BE10310, EE100  8 , PH11010, EE110  8 ,
+CHN17CS041   MA101  8 , PH100  0 , BE100  7 , BE10105  8 , BE1039, EE100  6 , PH110  8 , EE1109,
+CHN17CS042   MA101  6 , PH100  0 , BE100  6 , BE10105  8 , BE1039.5, EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS043   MA101  0 , PH100  0 , BE100  7 , BE10105  0 , BE103  8 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS044   MA101  8 , PH100  7 , BE100  8 , BE10105  8 , BE10310, EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS045   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE1039.5, EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS046   MA101  0 , PH100  0 , BE100  6 , BE10105  0 , BE103  6 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS047   MA101  0 , PH100  0 , BE100  0 , BE10105  7 , BE1039, EE100(FE), PH110  8 , EE110  8 ,
+CHN17CS048   MA101  7 , PH100  7 , BE10010, BE101059.5, BE10310, EE1009, PH1109, EE110  8 ,
+CHN17CS049   MA101  8 , PH1009.5, BE100  7 , BE1010510, BE1039.5, EE100  8 , PH1109.5,
+CHN17CS050   MA101  7 , PH100  7 , BE100  7 , BE10105  6 , BE103  8 , EE100  6 , PH1109.5, EE1109.5,
+CHN17CS051   MA101  7 , PH100  7 , BE100  8 , BE10105  8 , BE1039, EE100  7 , PH1109.5, EE110  7 ,
+CHN17CS052   MA101  0 , PH100  0 , BE100  0 , BE10105  8 , BE103  8 , EE100  0 , PH110  8 , EE1109.5,
+CHN17CS053   MA10110, PH100  8 , BE1009, BE10105  7 , BE1039, EE1009.5, PH11010, EE1109.5,
+CHN17CS054   MA101  7 , PH100  7 , BE100  0 , BE10105  8 , BE103  8 , EE100  7 , PH110  8 , EE110  8 ,
+CHN17CS055   MA101  0 , PH100  6 , BE100  7 , BE10105  6 , BE1039, EE100  6 , PH1109, EE110  8 ,
+CHN17CS056   MA101  0 , PH100  7 , BE100  0 , BE10105  7 , BE1039, EE100  6 , PH1109, EE110  8 ,
+CHN17CS057   MA101  8 , PH100  8 , BE100  8 , BE101059, BE1039.5, EE100  8 , PH1109.5, EE1109,
+CHN17CS058   MA101  7 , PH100  8 , BE100  7 , BE10105  8 , BE1039.5, EE100  7 , PH1109, EE110  8 ,
+CHN17CS059   MA101  8 , PH100  8 , BE100  0 , BE10105  7 , BE103  8 , EE100  7 , PH1109, EE1109,
+CHN17CS060   MA101  7 , PH100  7 , BE100  0 , BE10105  8 , BE1039, EE100  6 , PH110  8 , EE1109,
+CHN17CS061   MA101  7 , PH100  7 , BE100  7 , BE10105  8 , BE103  8 , EE100  7 , PH1109.5, EE11010,
+CHN17CS062   MA1019.5, PH100  8 , BE100  7 , BE10105  8 , BE103  7 , EE100  7 , PH1109.5, EE1109,
+CHN17CS063   MA101  8 , PH100  8 , BE100  7 , BE10105  7 , BE1039.5, EE100  7 , PH1109, EE1109,
+CHN17CS064   MA101  8 , PH100  8 , BE100  7 , BE10105  8 , BE103  7 , EE100  6 , PH11010, EE110  7 ,
+CHN17CS065   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  7 , EE100  0 , PH110  8 , EE110  8 ,
+CHN17CS066   MA101  0 , PH100  6 , BE100  6 , BE10105  7 , BE1039, EE100  7 , PH110  8 , EE110  8 ,
+CHN17CS067   MA101  7 , PH100  7 , BE100  6 , BE10105  8 , BE103  8 , EE100  7 , PH1109, EE110  8 ,
+CHN17CS068   MA101  7 , PH100  8 , BE100  7 , BE10105  6 , BE103  8 , EE100  7 , PH1109, EE110  8 ,
+CHN17CS069   MA101  8 , PH1009, BE100  8 , BE101059, BE1039.5, EE100  7 , PH1109, EE110  8 ,
+CHN17CS070   MA1019, PH1009, BE100  8 , BE10105  6 , BE10310, EE100  7 , PH11010, EE1109.5,
+CHN17CS071   MA101  0 , PH100  0 , BE100  0 , BE10105  7 , BE103  6 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS072   MA101  0 , PH100  7 , BE100  0 , BE10105  6 , BE103  6 , EE100  6 , PH110  8 , EE110  7 ,
+CHN17CS073   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  7 , EE100  0 , PH110  8 , EE110  8 ,
+CHN17CS074   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  8 , EE100(FE), PH110  8 , EE110  8 ,
+CHN17CS075   MA101  7 , PH100  7 , BE100  6 , BE10105  6 , BE103  8 , EE100  0 , PH1109, EE110  8 ,
+CHN17CS076   MA101  0 , PH100  7 , BE100  6 , BE10105  0 , BE103  6 , EE100  0 , PH110  8 , EE1109,
+CHN17CS077   MA101  8 , PH1009, BE100  8 , BE101059, BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS078   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  6 , EE100  0 , PH110  8 , EE110  8 ,
+CHN17CS079   MA1019.5, PH100  8 , BE100  8 , BE10105  8 , BE103  8 , EE100  7 , PH1109.5, EE1109,
+CHN17CS080   MA101  8 , PH100  7 , BE100  8 , BE101059.5, BE103  8 , EE100  7 , PH1109, EE1109.5,
+CHN17CS081   MA101  8 , PH100  6 , BE100  6 , BE10105  8 , BE103  7 , EE100  0 , PH1109, EE110  7 ,
+CHN17CS082   MA101  6 , PH100  0 , BE100  0 , BE10105  6 , BE103  8 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS083   MA101  7 , PH100  6 , BE100  6 , BE10105  7 , BE103  7 , EE100  6 , PH1109, EE110  8 ,
+CHN17CS084   MA101  7 , PH100  7 , BE100  6 , BE10105  8 , BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS085   MA1019, PH10010, BE10010, BE10105  7 , BE103  8 , EE100  8 , PH1109.5, EE110  8 ,
+CHN17CS086   MA101  0 , PH100  0 , BE100  0 , BE10105  7 , BE103  7 , EE100  6 , PH1109.5, EE1109,
+CHN17CS087   MA101  6 , PH100  7 , BE100  6 , BE101059, BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS088   MA101  0 , PH100  0 , BE100  0 , BE10105  8 , BE103  8 , EE100  6 , PH110  8 , EE110  8 ,
+CHN17CS089   MA1019, PH100  6 , BE100  7 , BE10105  6 , BE103  6 , EE100  0 , PH1109, EE110  7 ,
+CHN17CS090   MA101  0 , PH100  0 , BE100  0 , BE10105  8 , BE103  8 , EE100  6 , PH110  8 , EE1109.5,
+CHN17CS091   MA101  8 , PH1009.5, BE100  8 , BE101059, BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS092   MA101  0 , PH100  7 , BE100  0 , BE10105  6 , BE103  7 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS093   MA1019.5, PH100  6 , BE100  8 , BE101059.5, BE103  7 , EE100  6 , PH1109, EE110  8 ,
+CHN17CS094   MA101  8 , PH100  8 , BE100  7 , BE101059.5, BE103  8 , EE100  8 , PH1109.5,
+CHN17CS095   MA101  6 , PH100  8 , BE100  8 , BE10105  8 , BE1039, EE100  8 , PH1109.5, EE11010,
+CHN17CS096   MA101  7 , PH100  6 , BE100  0 , BE10105  7 , BE103  8 , EE100  0 , PH1109.5, EE1109,
+CHN17CS097   MA1019, PH1009, BE1009.5, BE1010510, BE1039, EE1009, PH1109.5, EE110  8 ,
+CHN17CS098   MA10110, PH10010, BE1009, BE101059, BE10310, EE1009, PH11010, EE1109,
+CHN17CS099   MA101  8 , PH100  7 , BE100  6 , BE10105  8 , BE103  8 , EE100  0 , PH1109.5, EE110  8 ,
+CHN17CS100   MA101  0 , PH100  7 , BE100  7 , BE10105  7 , BE103  7 , EE100  7 , PH1109.5, EE1109.5,
+CHN17CS101   MA101  0 , PH100  7 , BE100  7 , BE10105  7 , BE103  8 , EE100  0 , PH1109.5, EE1109.5,
+CHN17CS102   MA101  7 , PH100  6 , BE100  7 , BE10105  0 , BE103  8 , EE100  0 , PH1109.5, EE110  8 ,
+CHN17CS103   MA101  7 , PH100  8 , BE100  8 , BE10105  8 , BE1039, EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS104   MA101  7 , PH100  7 , BE100  6 , BE101059.5, BE1039.5, EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS105   MA101  7 , PH100  7 , BE100  7 , BE10105  7 , BE103  8 , EE100  7 , PH1109.5, EE110  7 ,
+CHN17CS106   MA101  7 , PH100  6 , BE100  0 , BE10105  0 , BE103  7 , EE100  0 , PH110  8 , EE1109.5,
+CHN17CS107   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  7 , EE100(FE), PH110  8 , EE110  8 ,
+CHN17CS108   MA101  8 , PH100  8 , BE100  6 , BE10105  6 , BE103  8 , EE100  7 , PH1109, EE110  8 ,
+CHN17CS109   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  6 , EE100  0 , PH110  8 , EE1109,
+CHN17CS110   MA101  6 , PH100  8 , BE100  6 , BE10105  6 , BE1039, EE100  7 , PH1109, EE110  8 ,
+CHN17CS111   MA101  7 , PH100  8 , BE100  0 , BE101059.5, BE1039.5, EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS112   MA101  8 , PH100  8 , BE100  6 , BE10105  6 , BE103  8 , EE100  7 , PH1109.5, EE1109,
+CHN17CS113   MA101  0 , PH100  7 , BE100  7 , BE10105  6 , BE103  8 , EE100  6 , PH110  8 , EE1109.5,
+CHN17CS114   MA101  7 , PH100  8 , BE100  7 , BE10105  6 , BE103  8 , EE100  7 , PH1109.5, EE110  8 ,
+CHN17CS115   MA101  7 , PH100  8 , BE1009, BE10105  8 , BE1039, EE100  7 , PH11010, EE1109.5,
+CHN17CS116   MA101  0 , PH1009, BE100  7 , BE101059, BE1039.5, EE100  7 , PH11010, EE110  8 ,
+CHN17CS117   MA101  8 , PH100  7 , BE100  7 , BE10105  8 , BE1039, EE100  6 , PH11010, EE1109.5,
+CHN17CS118   MA101  7 , PH1009, BE1009, BE10105  6 , BE103  8 , EE100  8 , PH11010, EE11010,
+CHN17CS119   MA101  0 , PH100  6 , BE100  0 , BE10105  7 , BE103  7 , EE100  6 , PH1109.5, EE110  8 ,
+CHN17CS120   MA101  0 , PH100  0 , BE100  0 , BE10105  0 , BE103  8 , EE100  6 , PH1109, EE110  8 ,
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat s4d.txtawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' s4d.txt>cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat cgpa.txt[Kawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' s4d.txt>cgpa.txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ awk '{print$s1}'[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kreg.txt
+reg.txt: command not found
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat reg.txt
+cat: reg.txt: No such file or directory
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ awk ';[K(pu[Krint%$[K[K$2=[K[K1[K[K[K[K[K[K[K[K[K[K[K[K[Kpasd[Kte[K[K[K[K[Kawk '(print$1[1Pprint$1{print$1[C[C[C[C[C[C[C}' s4d.txt>reg,[K.txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat reg.txt
+CHN17CS001
+CHN17CS002
+CHN17CS003
+CHN17CS004
+CHN17CS005
+CHN17CS006
+CHN17CS007
+CHN17CS008
+CHN17CS009
+CHN17CS010
+CHN17CS011
+CHN17CS012
+CHN17CS013
+CHN17CS014
+CHN17CS015
+CHN17CS016
+CHN17CS017
+CHN17CS018
+CHN17CS019
+CHN17CS020
+CHN17CS021
+CHN17CS022
+CHN17CS023
+CHN17CS024
+CHN17CS025
+CHN17CS026
+CHN17CS027
+CHN17CS028
+CHN17CS029
+CHN17CS030
+CHN17CS031
+CHN17CS032
+CHN17CS033
+CHN17CS034
+CHN17CS035
+CHN17CS036
+CHN17CS037
+CHN17CS038
+CHN17CS039
+CHN17CS040
+CHN17CS041
+CHN17CS042
+CHN17CS043
+CHN17CS044
+CHN17CS045
+CHN17CS046
+CHN17CS047
+CHN17CS048
+CHN17CS049
+CHN17CS050
+CHN17CS051
+CHN17CS052
+CHN17CS053
+CHN17CS054
+CHN17CS055
+CHN17CS056
+CHN17CS057
+CHN17CS058
+CHN17CS059
+CHN17CS060
+CHN17CS061
+CHN17CS062
+CHN17CS063
+CHN17CS064
+CHN17CS065
+CHN17CS066
+CHN17CS067
+CHN17CS068
+CHN17CS069
+CHN17CS070
+CHN17CS071
+CHN17CS072
+CHN17CS073
+CHN17CS074
+CHN17CS075
+CHN17CS076
+CHN17CS077
+CHN17CS078
+CHN17CS079
+CHN17CS080
+CHN17CS081
+CHN17CS082
+CHN17CS083
+CHN17CS084
+CHN17CS085
+CHN17CS086
+CHN17CS087
+CHN17CS088
+CHN17CS089
+CHN17CS090
+CHN17CS091
+CHN17CS092
+CHN17CS093
+CHN17CS094
+CHN17CS095
+CHN17CS096
+CHN17CS097
+CHN17CS098
+CHN17CS099
+CHN17CS100
+CHN17CS101
+CHN17CS102
+CHN17CS103
+CHN17CS104
+CHN17CS105
+CHN17CS106
+CHN17CS107
+CHN17CS108
+CHN17CS109
+CHN17CS110
+CHN17CS111
+CHN17CS112
+CHN17CS113
+CHN17CS114
+CHN17CS115
+CHN17CS116
+CHN17CS117
+CHN17CS118
+CHN17CS119
+CHN17CS120
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ paste -d" /t" reg.txt cgpa.txt>res.txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ paste -d" /t" reg.txt cgpa.txt>res.txt[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[Kt
+CHN17CS001 0
+CHN17CS002 0
+CHN17CS003 3.375
+CHN17CS004 5.25
+CHN17CS005 5.125
+CHN17CS006 1
+CHN17CS007 1.75
+CHN17CS008 3.625
+CHN17CS009 0.75
+CHN17CS010 6
+CHN17CS011 3.5
+CHN17CS012 1
+CHN17CS013 1.75
+CHN17CS014 3.625
+CHN17CS015 1.75
+CHN17CS016 4.375
+CHN17CS017 1
+CHN17CS018 2.75
+CHN17CS019 1
+CHN17CS020 4.25
+CHN17CS021 5.125
+CHN17CS022 0.75
+CHN17CS023 3.5
+CHN17CS024 1
+CHN17CS025 4.25
+CHN17CS026 2.75
+CHN17CS027 0
+CHN17CS028 3
+CHN17CS029 2.75
+CHN17CS030 0
+CHN17CS031 5.25
+CHN17CS032 5.25
+CHN17CS033 1
+CHN17CS034 2.75
+CHN17CS035 4.375
+CHN17CS036 1.875
+CHN17CS037 3.5
+CHN17CS038 2.625
+CHN17CS039 1.875
+CHN17CS040 1
+CHN17CS041 2.875
+CHN17CS042 2.5
+CHN17CS043 4.625
+CHN17CS044 3.875
+CHN17CS045 0
+CHN17CS046 4.25
+CHN17CS047 0.875
+CHN17CS048 1.75
+CHN17CS049 2
+CHN17CS050 5.125
+CHN17CS051 3.75
+CHN17CS052 3
+CHN17CS053 0
+CHN17CS054 6.625
+CHN17CS055 2.375
+CHN17CS056 1.75
+CHN17CS057 3
+CHN17CS058 3.75
+CHN17CS059 4.75
+CHN17CS060 2.75
+CHN17CS061 5.5
+CHN17CS062 0
+CHN17CS063 3.75
+CHN17CS064 5.5
+CHN17CS065 2.875
+CHN17CS066 2.375
+CHN17CS067 5.375
+CHN17CS068 5.375
+CHN17CS069 1.875
+CHN17CS070 0.875
+CHN17CS071 4.375
+CHN17CS072 5
+CHN17CS073 2.875
+CHN17CS074 1
+CHN17CS075 4.25
+CHN17CS076 3.375
+CHN17CS077 2
+CHN17CS078 2.75
+CHN17CS079 0
+CHN17CS080 2.875
+CHN17CS081 4.375
+CHN17CS082 5.25
+CHN17CS083 4.875
+CHN17CS084 5.375
+CHN17CS085 2.875
+CHN17CS086 2.5
+CHN17CS087 2.375
+CHN17CS088 4.75
+CHN17CS089 0
+CHN17CS090 3.75
+CHN17CS091 2
+CHN17CS092 3.375
+CHN17CS093 1
+CHN17CS094 2.875
+CHN17CS095 3.75
+CHN17CS096 3.5
+CHN17CS097 0
+CHN17CS098 0
+CHN17CS099 4.625
+CHN17CS100 4.375
+CHN17CS101 3.625
+CHN17CS102 3.5
+CHN17CS103 3.875
+CHN17CS104 3.5
+CHN17CS105 5.375
+CHN17CS106 3.5
+CHN17CS107 0.875
+CHN17CS108 5.375
+CHN17CS109 1.75
+CHN17CS110 3.25
+CHN17CS111 2.875
+CHN17CS112 5.375
+CHN17CS113 5.25
+CHN17CS114 5.375
+CHN17CS115 1.875
+CHN17CS116 0.875
+CHN17CS117 3.75
+CHN17CS118 0.875
+CHN17CS119 3.25
+CHN17CS120 1.75
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ [K]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ cat dbatch.txt
+Sl No.   Admn No.    Uty Reg No.                    Name
+   1.      411/17   CHN17CS004     ABIN THOMAS
+   2.      412/17   CHN17CS006     ADERSH A
+   3.      347/17   CHN17CS013     ALEN ANTO ABRAHAM
+   4.      168/17   CHN17CS017     AMAL XAVIER
+   5.      434/17   CHN17CS018     AMRITA AJITH
+   6.      420/17   CHN17CS019     ANAKHA B M
+   7.      394/17   CHN17CS021     ANIJA J
+   8.       26/17   CHN17CS022     ANJALI LAKSHMI
+   9.      382/17   CHN17CS023     ANUJA DEV R
+   10.     119/17   CHN17CS024     ANUROSE K THOMAS
+   11.     311/17   CHN17CS027     ARCHANA ROSE BIJU
+   12.     459/17   CHN17CS029     ARUN R
+   13.     386/17   CHN17CS030     ASHISH MATHEW JOHN
+   14.     388/17   CHN17CS032     ASWIN K
+   15.     113/17   CHN17CS034     ATHIRA SURESH
+   16.     456/17   CHN17CS037     AZHAR K
+   17.     197/17   CHN17CS038     BAMISHA A
+   18.     181/17   CHN17CS041     DARSANA M
+   19.     104/17   CHN17CS044     DEEPAK R
+   20.     160/17   CHN17CS045     DEVIKA KRISHNA
+   21.     172/17   CHN17CS048     GEORGI K JOSEPH
+   22.     121/17   CHN17CS051     GOUTHAM G
+   23.     378/17   CHN17CS052     GOVIND J NAIR
+   24.     143/17   CHN17CS053     GRESHMA SHAJI
+   25.     182/17   CHN17CS054     HARIDEV S
+   26.     154/17   CHN17CS055     HARIKRISHNAN S KARTHA
+   27.     445/17   CHN17CS057     JATHIN SURESH
+   28.      03/17   CHN17CS058     JENY SUSAN RAJAN
+   29.      36/17   CHN17CS063     JOEL JOSEPH
+   30.     151/17   CHN17CS064     JOHAN SAM THOMAS
+   31.     400/17   CHN17CS070     LENA GRACE JOSEPH
+   32.      17/17   CHN17CS071     LINTA MARIAM DANIEL
+   33.     393/17   CHN17CS074     MEGHA ELSA SHIBU
+   34.     389/17   CHN17CS076     MOHAMED SHAHIL K
+   35.     134/17   CHN17CS077     MONIYA MOHAN
+   36.     131/17   CHN17CS080     NIKHIL M TOMY
+   37.      10/17   CHN17CS083     NIRMAL K GEORGE MATHEW
+   38.     441/17   CHN17CS085     NITHYA VENUGOPAL
+   39.     142/17   CHN17CS088     N S ATHUL ANAND
+   40.     169/17   CHN17CS090     PRANAY PRINCE
+   41.     278/17   CHN17CS093     RITHU MARIA JOSE
