@@ -2136,4 +2136,38 @@ Sl No.   Admn No.    Uty Reg No.                    Name
    38.     441/17   CHN17CS085     NITHYA VENUGOPAL
    39.     142/17   CHN17CS088     N S ATHUL ANAND
    40.     169/17   CHN17CS090     PRANAY PRINCE
-   41.     278/17   CHN17CS093     RITHU MARIA JOSE
+   41.     278/17   CHN17CS093     RITHU MARIA JOSE
+   42.     187/17   CHN17CS094     RITTY THOMAS
+   43.     423/17   CHN17CS095     ROSHIN ROY
+   44.     156/17   CHN17CS097     SACHIN R
+   45.     290/17   CHN17CS100     SAYOOJ K
+   46.     139/17   CHN17CS101     SHABEERDAS C
+   47.     115/17   CHN17CS104     SHYLESH S
+   48.     443/17   CHN17CS106     SNEHA JAYAN
+   49.     108/17   CHN17CS109     SREELAL S
+   50.     185/17   CHN17CS110     STEPHEN THOMAS
+   51.     315/17   CHN17CS111     SURYA MERIN PHILIP
+   52.     170/17   CHN17CS113     THWALIB NAZIR
+   53.     381/17   CHN17CS114     VARGHESE P P
+   54.     102/17   CHN17CS115     VIMAL K R
+   55.     192/17   CHN17CS116     VISAKH SEBASTIAN
+   56.     116/17   CHN17CS117     VISHAK P V
+   57.     357/17   CHN17CS118     VISHNU V
+   58.     404/17   CHN17CS119     VYSHAKH R
+   59.     476/17   LCHN17CS122    AMRUTHA S
+   60.     469/17   LCHN17CS124    JACOB MATHEW
+   61.     480/17   LCHN17CS121    AISWARYA J
+   62.     475/17   LCHN17CS123    HARIKRISHNAN U
+
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ z[Kawk 'NR==FNR  {SEE[K[K[Kseen{[K[$3]=1;  next}seen[$1] ==1 {seen[s2]++;print $2}'s4d.txt res.txt>cgpa.txt
+awk: 1: unexpected character '.'
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ awk 'NR==FNR  {seen[$3]=1;  next}seen[$1]===1 {seen[s2]++;print $2}'s4d.txt res.txt>cgpa.txt[C[1@ [1P[C[1@ [C[C[C[C[C[C[C[C[C[C[1@ 
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ paste -d'/t[K[K\t' dbatch.txt cgpa.txt>s4dfinal .txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ sed -8i[K[Ki ;[K'1 i\sl.no ad no.reh[Kg na name cgpa'  s4dfinal.txt
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ exit
+exit
+There are stopped jobs.
+]0;s4d1@ceclab2-Veriton-Series: ~/Desktops4d1@ceclab2-Veriton-Series:~/Desktop$ exit
+exit
+
+Script done on Monday 25 February 2019 12:19:10 PM IST
