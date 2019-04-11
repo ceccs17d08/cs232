@@ -1,0 +1,49 @@
+Script started on Thursday 11 April 2019 12:12:39 PM IST
+]0;cec-lab1@ceclab1-Veriton-Series: ~[01;32mcec-lab1@ceclab1-Veriton-Series[00m:[01;34m~[00m$ ssh cs17d8[K08@192,168.0.30
+ssh: Could not resolve hostname 192,168.0.30: Temporary failure in name resolution
+]0;cec-lab1@ceclab1-Veriton-Series: ~[01;32mcec-lab1@ceclab1-Veriton-Series[00m:[01;34m~[00m$ ssh cs17d08@192,168.0.30[1P168.0.30.168.0.30[Kssh cs17d08@192.168.0.30[Kssh cs17d08@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d08@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+23 packages can be updated.
+0 updates are security updates.
+
+Last login: Thu Apr 11 09:49:59 2019 from 192.168.0.22
+$ ls
+abc.txt  Anjali  anjali.txt  examples.desktop  me.txt
+$ cat  > abc.txt
+
+du
+
+^Z[1] + Stopped                    cat 1>abc.txt
+$ du
+4	./.cache
+40	./.config/plank/dock1/launchers
+44	./.config/plank/dock1
+48	./.config/plank
+52	./.config
+100	.
+$ scp cs17d08@192.168.0.30:/home/cs17d08/m abc, .txt/home/cec
+usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+$ 
+$ 
+$ ^Z
+$ 
+$ 
+$ exit
+You have stopped jobs.
+$ exit
+Connection to 192.168.0.30 closed.
+]0;cec-lab1@ceclab1-Veriton-Series: ~[01;32mcec-lab1@ceclab1-Veriton-Series[00m:[01;34m~[00m$ exit
+exit
+
+Script done on Thursday 11 April 2019 12:18:25 PM IST
